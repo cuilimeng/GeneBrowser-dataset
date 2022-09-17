@@ -1,0 +1,2180 @@
+﻿,url,title,description,variant counts,patient phenotypes
+0,https://3billion.io/gene/XRCC1/,XRCC1,"XRCC1
+Synonyms
+RCC, SCAR26
+External resources
+NCBI7515
+OMIM194360
+EnsemblENSG00000073050
+HGNCHGNC:12828
+Summary
+The protein encoded by this gene is involved in the efficient repair of DNA single-strand breaks formed by exposure to ionizing radiation and alkylating agents. This protein interacts with DNA ligase III, polymerase beta and poly (ADP-ribose) polymerase to participate in the base excision repair pathway. It may play a role in DNA processing during meiogenesis and recombination in germ cells. A rare microsatellite polymorphism in this gene is associated with cancer in patients of varying radiosensitivity.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+29
+Likely pathogenic
+0
+VUS
+11,690
+Likely benign
+3,878
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 29 patients carrying pathogenic or likely pathogenic variants on XRCC1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+41.4%
+Abnormality of the musculoskeletal system
+27.6%
+Abnormality of head or neck
+24.1%
+Abnormality of the eye
+24.1%
+Abnormality of the cardiovascular system
+20.7%
+Abnormality of the immune system
+6.9%
+Abnormality of the integument
+6.9%
+Growth abnormality
+6.9%
+Abnormal cellular phenotype
+3.4%
+Abnormality of blood and blood-forming tissues
+3.4%
+Abnormality of limbs
+3.4%
+Abnormality of the breast
+3.4%
+Abnormality of the digestive system
+3.4%
+Abnormality of the genitourinary system
+3.4%
+Constitutional symptom
+3.4%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Neoplasm
+0%"
+1,https://3billion.io/gene/XRCC3/,XRCC3,"XRCC3
+Synonyms
+CMM6
+External resources
+NCBI7517
+OMIM600675
+EnsemblENSG00000126215
+HGNCHGNC:12830
+Summary
+This gene encodes a member of the RecA/Rad51-related protein family that participates in homologous recombination to maintain chromosome stability and repair DNA damage. This gene functionally complements Chinese hamster irs1SF, a repair-deficient mutant that exhibits hypersensitivity to a number of different DNA-damaging agents and is chromosomally unstable. A rare microsatellite polymorphism in this gene is associated with cancer in patients of varying radiosensitivity. Alternatively spliced transcript variants encoding the same protein have been identified.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,494
+Likely benign
+3,145
+Benign
+39","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XRCC3 gene."
+2,https://3billion.io/gene/XRCC5/,XRCC5,"XRCC5
+Synonyms
+KARP-1, KARP1, KU80, KUB2, Ku86, NFIV
+External resources
+NCBI7520
+OMIM194364
+EnsemblENSG00000079246
+HGNCHGNC:12833
+Summary
+The protein encoded by this gene is the 80-kilodalton subunit of the Ku heterodimer protein which is also known as ATP-dependant DNA helicase II or DNA repair protein XRCC5. Ku is the DNA-binding component of the DNA-dependent protein kinase, and it functions together with the DNA ligase IV-XRCC4 complex in the repair of DNA double-strand break by non-homologous end joining and the completion of V(D)J recombination events. This gene functionally complements Chinese hamster xrs-6, a mutant defective in DNA double-strand break repair and in ability to undergo V(D)J recombination. A rare microsatellite polymorphism in this gene is associated with cancer in patients of varying radiosensitivity.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+4,089
+Likely benign
+2,276
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on XRCC5 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+100%
+Abnormality of limbs
+100%
+Abnormality of prenatal development or birth
+100%
+Abnormality of the cardiovascular system
+100%
+Abnormality of the digestive system
+100%
+Abnormality of the eye
+100%
+Abnormality of the genitourinary system
+100%
+Abnormality of the immune system
+100%
+Abnormality of the integument
+100%
+Abnormality of the musculoskeletal system
+100%
+Abnormality of the nervous system
+100%
+Growth abnormality
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+3,https://3billion.io/gene/XRCC4/,XRCC4,"XRCC4
+Synonyms
+SSMED, hXRCC4
+External resources
+NCBI7518
+OMIM194363
+EnsemblENSG00000152422
+HGNCHGNC:12831
+Summary
+The protein encoded by this gene functions together with DNA ligase IV and the DNA-dependent protein kinase in the repair of DNA double-strand breaks. This protein plays a role in both non-homologous end joining and the completion of V(D)J recombination. Mutations in this gene can cause short stature, microcephaly, and endocrine dysfunction (SSMED). Alternate transcript variants such as NM_022406 are unlikely to be expressed in some individuals due to a polymorphism (rs1805377) in the last splice acceptor site.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+18
+Likely pathogenic
+1
+VUS
+1,042
+Likely benign
+3,652
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 19 patients carrying pathogenic or likely pathogenic variants on XRCC4 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+36.8%
+Abnormality of the integument
+21.1%
+Abnormality of the nervous system
+21.1%
+Abnormality of the immune system
+15.8%
+Abnormality of the cardiovascular system
+10.5%
+Abnormality of the digestive system
+10.5%
+Abnormality of the ear
+10.5%
+Abnormality of limbs
+5.3%
+Abnormality of the genitourinary system
+5.3%
+Abnormality of the musculoskeletal system
+5.3%
+Neoplasm
+5.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%"
+4,https://3billion.io/gene/XRCC6/,XRCC6,"XRCC6
+Synonyms
+CTC75, CTCBF, G22P1, KU70, ML8, TLAA
+External resources
+NCBI2547
+OMIM152690
+EnsemblENSG00000196419
+HGNCHGNC:4055
+Summary
+The p70/p80 autoantigen is a nuclear complex consisting of two subunits with molecular masses of approximately 70 and 80 kDa. The complex functions as a single-stranded DNA-dependent ATP-dependent helicase. The complex may be involved in the repair of nonhomologous DNA ends such as that required for double-strand break repair, transposition, and V(D)J recombination. High levels of autoantibodies to p70 and p80 have been found in some patients with systemic lupus erythematosus.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+10
+Likely pathogenic
+0
+VUS
+707
+Likely benign
+2,222
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 8 patients carrying pathogenic or likely pathogenic variants on XRCC6 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+62.5%
+Abnormality of the musculoskeletal system
+62.5%
+Abnormality of the nervous system
+62.5%
+Abnormality of the cardiovascular system
+50%
+Growth abnormality
+50%
+Abnormality of limbs
+37.5%
+Abnormality of the digestive system
+37.5%
+Abnormality of the eye
+37.5%
+Abnormality of blood and blood-forming tissues
+25%
+Abnormality of the immune system
+25%
+Abnormality of the respiratory system
+25%
+Abnormality of the ear
+12.5%
+Abnormality of the integument
+12.5%
+Neoplasm
+12.5%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+5,https://3billion.io/gene/XIRP1/,XIRP1,"XIRP1
+Synonyms
+CMYA1, Xin
+External resources
+NCBI165904
+OMIM609777
+EnsemblENSG00000168334
+HGNCHGNC:14301
+Summary
+The protein encoded by this gene is a striated muscle protein and belongs to the Xin actin-binding repeat-containing protein (XIRP) family. The protein functions to protect actin filaments during depolymerization. Alternatively spliced transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+4,241
+Likely benign
+874
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XIRP1 gene."
+6,https://3billion.io/gene/XIRP2/,XIRP2,"XIRP2
+Synonyms
+CMYA3
+External resources
+NCBI129446
+OMIM609778
+EnsemblENSG00000163092
+HGNCHGNC:14303
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+6,824
+Likely benign
+8,805
+Benign
+1,937","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XIRP2 gene."
+7,https://3billion.io/gene/XBP1/,XBP1,"XBP1
+Synonyms
+TREB-5, TREB5, XBP-1, XBP2
+External resources
+NCBI7494
+OMIM194355
+EnsemblENSG00000100219
+HGNCHGNC:12801
+Summary
+This gene encodes a transcription factor that regulates MHC class II genes by binding to a promoter element referred to as an X box. This gene product is a bZIP protein, which was also identified as a cellular transcription factor that binds to an enhancer in the promoter of the T cell leukemia virus type 1 promoter. It may increase expression of viral proteins by acting as the DNA binding partner of a viral transactivator. It has been found that upon accumulation of unfolded proteins in the endoplasmic reticulum (ER), the mRNA of this gene is processed to an active form by an unconventional splicing mechanism that is mediated by the endonuclease inositol-requiring enzyme 1 (IRE1). The resulting loss of 26 nt from the spliced mRNA causes a frame-shift and an isoform XBP1(S), which is the functionally active transcription factor. The isoform encoded by the unspliced mRNA, XBP1(U), is constitutively expressed, and thought to function as a negative feedback regulator of XBP1(S), which shuts off transcription of target genes during the recovery phase of ER stress. A pseudogene of XBP1 has been identified and localized to chromosome 5.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+398
+Likely benign
+522
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XBP1 gene."
+8,https://3billion.io/gene/XK/,XK,"XK
+Synonyms
+KX, NA, NAC, X1k, XKR1
+External resources
+NCBI7504
+OMIM314850
+EnsemblENSG00000047597
+HGNCHGNC:12811
+Summary
+This locus controls the synthesis of the Kell blood group 'precursor substance' (Kx). Mutations in this gene have been associated with McLeod syndrome, an X-linked, recessive disorder characterized by abnormalities in the neuromuscular and hematopoietic systems. The encoded protein has structural characteristics of prokaryotic and eukaryotic membrane transport proteins.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+164
+Likely benign
+143
+Benign
+4","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on XK gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+9,https://3billion.io/gene/XG/,XG,"XG
+Synonyms
+PBDX
+External resources
+NCBI7499
+OMIM300879
+EnsemblENSG00000124343
+HGNCHGNC:12806
+Summary
+This gene encodes the XG blood group antigen, and is located at the pseudoautosomal boundary on the short (p) arm of chromosome X. The three 5' exons reside in the pseudoautosomal region and the remaining exons within the X-specific end. A truncated copy of this gene is found on the Y chromosome at the pseudoautosomal boundary. It is transcribed, but not expected to make a Y-chromosome specific gene product. Alternatively spliced transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+806
+Likely benign
+1,727
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XG gene."
+10,https://3billion.io/gene/XIAP/,XIAP,"XIAP
+Synonyms
+API3, BIRC4, IAP-3, ILP1, MIHA, XLP2, hIAP-3, hIAP3
+External resources
+NCBI331
+OMIM300079
+EnsemblENSG00000101966
+HGNCHGNC:592
+Summary
+This gene encodes a protein that belongs to a family of apoptotic suppressor proteins. Members of this family share a conserved motif termed, baculovirus IAP repeat, which is necessary for their anti-apoptotic function. This protein functions through binding to tumor necrosis factor receptor-associated factors TRAF1 and TRAF2 and inhibits apoptosis induced by menadione, a potent inducer of free radicals, and interleukin 1-beta converting enzyme. This protein also inhibits at least two members of the caspase family of cell-death proteases, caspase-3 and caspase-7. Mutations in this gene are the cause of X-linked lymphoproliferative syndrome. Alternate splicing results in multiple transcript variants. Pseudogenes of this gene are found on chromosomes 2 and 11.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+516
+Likely benign
+447
+Benign
+50","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on XIAP gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+11,https://3billion.io/gene/XRRA1/,XRRA1,"XRRA1
+Synonyms
+-
+External resources
+NCBI143570
+OMIM609788
+EnsemblENSG00000166435
+HGNCHGNC:18868
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,862
+Likely benign
+5,326
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XRRA1 gene."
+12,https://3billion.io/gene/XAB2/,XAB2,"XAB2
+Synonyms
+HCNP, HCRN, NTC90, SYF1
+External resources
+NCBI56949
+OMIM610850
+EnsemblENSG00000076924
+HGNCHGNC:14089
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+20
+Likely pathogenic
+0
+VUS
+28,914
+Likely benign
+15,679
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 18 patients carrying pathogenic or likely pathogenic variants on XAB2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+38.9%
+Abnormality of the musculoskeletal system
+27.8%
+Abnormality of the endocrine system
+22.2%
+Abnormality of the cardiovascular system
+16.7%
+Abnormality of head or neck
+11.1%
+Abnormality of limbs
+5.6%
+Abnormality of the ear
+5.6%
+Abnormality of the eye
+5.6%
+Constitutional symptom
+5.6%
+Growth abnormality
+5.6%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Neoplasm
+0%"
+13,https://3billion.io/gene/XRCC2/,XRCC2,"XRCC2
+Synonyms
+FANCU, POF17, SPGF50
+External resources
+NCBI7516
+OMIM600375
+EnsemblENSG00000196584
+HGNCHGNC:12829
+Summary
+This gene encodes a member of the RecA/Rad51-related protein family that participates in homologous recombination to maintain chromosome stability and repair DNA damage. This gene is involved in the repair of DNA double-strand breaks by homologous recombination and it functionally complements Chinese hamster irs1, a repair-deficient mutant that exhibits hypersensitivity to a number of different DNA-damaging agents.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+2
+VUS
+519
+Likely benign
+81
+Benign
+148","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on XRCC2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the cardiovascular system
+50%
+Abnormality of the eye
+50%
+Abnormality of the musculoskeletal system
+50%
+Constitutional symptom
+50%
+Abnormality of head or neck
+25%
+Abnormality of prenatal development or birth
+25%
+Abnormality of the ear
+25%
+Abnormality of the endocrine system
+25%
+Abnormality of the genitourinary system
+25%
+Abnormality of the integument
+25%
+Abnormality of the nervous system
+25%
+Growth abnormality
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Neoplasm
+0%"
+14,https://3billion.io/gene/XPC/,XPC,"XPC
+Synonyms
+RAD4, XP3, XPCC, p125
+External resources
+NCBI7508
+OMIM613208
+EnsemblENSG00000154767
+HGNCHGNC:12816
+Summary
+The protein encoded by this gene is a key component of the XPC complex, which plays an important role in the early steps of global genome nucleotide excision repair (NER). The encoded protein is important for damage sensing and DNA binding, and shows a preference for single-stranded DNA. Mutations in this gene or some other NER components can result in Xeroderma pigmentosum, a rare autosomal recessive disorder characterized by increased sensitivity to sunlight with the development of carcinomas at an early age. Alternatively spliced transcript variants have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+31
+Likely pathogenic
+0
+VUS
+4,172
+Likely benign
+8,159
+Benign
+223","Patient phenotypes
+Proportions of phenotypes among 30 patients carrying pathogenic or likely pathogenic variants on XPC gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+50%
+Abnormality of the integument
+36.7%
+Abnormality of head or neck
+30%
+Abnormality of the cardiovascular system
+20%
+Abnormality of the genitourinary system
+20%
+Abnormality of the musculoskeletal system
+20%
+Growth abnormality
+20%
+Abnormality of the ear
+16.7%
+Abnormality of the eye
+16.7%
+Abnormality of limbs
+10%
+Abnormality of the endocrine system
+6.7%
+Abnormality of the digestive system
+3.3%
+Neoplasm
+3.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+15,https://3billion.io/gene/XYLT2/,XYLT2,"XYLT2
+Synonyms
+PXYLT2, SOS, XT-II, XT2, xylT-II
+External resources
+NCBI64132
+OMIM608125
+EnsemblENSG00000015532
+HGNCHGNC:15517
+Summary
+The protein encoded by this gene is an isoform of xylosyltransferase, which belongs to a family of glycosyltransferases. This enzyme transfers xylose from UDP-xylose to specific serine residues of the core protein and initiates the biosynthesis of glycosaminoglycan chains in proteoglycans including chondroitin sulfate, heparan sulfate, heparin and dermatan sulfate. The enzyme activity, which is increased in scleroderma patients, is a diagnostic marker for the determination of sclerotic activity in systemic sclerosis. Alternatively spliced transcript variants have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+4
+Likely pathogenic
+0
+VUS
+2,903
+Likely benign
+966
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on XYLT2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+100%
+Abnormality of the musculoskeletal system
+100%
+Abnormality of the nervous system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+16,https://3billion.io/gene/XYLT1/,XYLT1,"XYLT1
+Synonyms
+DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I
+External resources
+NCBI64131
+OMIM608124
+EnsemblENSG00000103489
+HGNCHGNC:15516
+Summary
+This locus encodes a xylosyltransferase enzyme. The encoded protein catalyzes transfer of UDP-xylose to serine residues of an acceptor protein substrate. This transfer reaction is necessary for biosynthesis of glycosaminoglycan chains. Mutations in this gene have been associated with increased severity of pseudoxanthoma elasticum.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+14
+Likely pathogenic
+0
+VUS
+9,854
+Likely benign
+3,868
+Benign
+304","Patient phenotypes
+Proportions of phenotypes among 10 patients carrying pathogenic or likely pathogenic variants on XYLT1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+50%
+Abnormality of the eye
+20%
+Abnormality of blood and blood-forming tissues
+10%
+Abnormality of head or neck
+10%
+Abnormality of the ear
+10%
+Abnormality of the genitourinary system
+10%
+Abnormality of the immune system
+10%
+Abnormality of the musculoskeletal system
+10%
+Abnormal cellular phenotype
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+17,https://3billion.io/gene/XCR1/,XCR1,"XCR1
+Synonyms
+CCXCR1, GPR5
+External resources
+NCBI2829
+OMIM600552
+EnsemblENSG00000173578
+HGNCHGNC:1625
+Summary
+The protein encoded by this gene is a chemokine receptor belonging to the G protein-coupled receptor superfamily. The family members are characterized by the presence of 7 transmembrane domains and numerous conserved amino acids. This receptor is most closely related to RBS11 and the MIP1-alpha/RANTES receptor. It transduces a signal by increasing the intracellular calcium ions level. The viral macrophage inflammatory protein-II is an antagonist of this receptor and blocks signaling. Several alternatively spliced transcript variants encoding the same protein have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+546
+Likely benign
+16
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XCR1 gene."
+18,https://3billion.io/gene/XPR1/,XPR1,"XPR1
+Synonyms
+IBGC6, SLC53A1, SYG1, X3
+External resources
+NCBI9213
+OMIM605237
+EnsemblENSG00000143324
+HGNCHGNC:12827
+Summary
+The protein encoded by this gene is a receptor for the xenotropic and polytropic classes of murine leukemia viruses. The encoded protein is involved in phosphate homeostasis by mediating phosphate export from the cell. Defects in this gene have been associated with idiopathic basal ganglia calcification-6.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+1,232
+Likely benign
+537
+Benign
+1,301","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on XPR1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+19,https://3billion.io/gene/XPO1/,XPO1,"XPO1
+Synonyms
+CRM-1, CRM1, emb, exp1
+External resources
+NCBI7514
+OMIM602559
+EnsemblENSG00000082898
+HGNCHGNC:12825
+Summary
+This cell-cycle-regulated gene encodes a protein that mediates leucine-rich nuclear export signal (NES)-dependent protein transport. The protein specifically inhibits the nuclear export of Rev and U snRNAs. It is involved in the control of several cellular processes by controlling the localization of cyclin B, MPAK, and MAPKAP kinase 2. This protein also regulates NFAT and AP-1.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+4
+Likely pathogenic
+0
+VUS
+6,884
+Likely benign
+2,575
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on XPO1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of blood and blood-forming tissues
+50%
+Abnormality of head or neck
+25%
+Abnormality of the immune system
+25%
+Abnormality of the integument
+25%
+Abnormality of the musculoskeletal system
+25%
+Abnormality of the nervous system
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+20,https://3billion.io/gene/XPO5/,XPO5,"XPO5
+Synonyms
+exp5
+External resources
+NCBI57510
+OMIM607845
+EnsemblENSG00000124571
+HGNCHGNC:17675
+Summary
+This gene encodes a member of the karyopherin family that is required for the transport of small RNAs and double-stranded RNA-binding proteins from the nucleus to the cytoplasm. The encoded protein translocates cargo through the nuclear pore complex in a RanGTP-dependent process.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+12
+Likely pathogenic
+0
+VUS
+8,475
+Likely benign
+4,146
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 12 patients carrying pathogenic or likely pathogenic variants on XPO5 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+41.7%
+Abnormality of the musculoskeletal system
+33.3%
+Growth abnormality
+33.3%
+Abnormality of the cardiovascular system
+25%
+Abnormality of the digestive system
+16.7%
+Abnormality of the ear
+16.7%
+Abnormality of the genitourinary system
+16.7%
+Abnormality of limbs
+8.3%
+Abnormality of the integument
+8.3%
+Abnormality of the nervous system
+8.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+21,https://3billion.io/gene/XPO4/,XPO4,"XPO4
+Synonyms
+exp4
+External resources
+NCBI64328
+OMIM611449
+EnsemblENSG00000132953
+HGNCHGNC:17796
+Summary
+XPO4 belongs to a large family of karyopherins (see MIM 602738) that mediate the transport of proteins and other cargo between the nuclear and cytoplasmic compartments (Lipowsky et al., 2000 [PubMed 10944119]).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+9
+Likely pathogenic
+0
+VUS
+3,050
+Likely benign
+7,915
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 7 patients carrying pathogenic or likely pathogenic variants on XPO4 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+42.9%
+Abnormality of the cardiovascular system
+42.9%
+Abnormality of the musculoskeletal system
+42.9%
+Abnormality of the nervous system
+42.9%
+Abnormality of the ear
+14.3%
+Abnormality of the eye
+14.3%
+Abnormality of the genitourinary system
+14.3%
+Abnormality of the integument
+14.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+22,https://3billion.io/gene/XPO7/,XPO7,"XPO7
+Synonyms
+EXP7, RANBP16
+External resources
+NCBI23039
+OMIM606140
+EnsemblENSG00000130227
+HGNCHGNC:14108
+Summary
+The transport of protein and large RNAs through the nuclear pore complexes (NPC) is an energy-dependent and regulated process. The import of proteins with a nuclear localization signal (NLS) is accomplished by recognition of one or more clusters of basic amino acids by the importin-alpha/beta complex; see MIM 600685 and MIM 602738. The small GTPase RAN (MIM 601179) plays a key role in NLS-dependent protein import. RAN-binding protein-16 is a member of the importin-beta superfamily of nuclear transport receptors.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+13,507
+Likely benign
+6,537
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on XPO7 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+23,https://3billion.io/gene/XPO6/,XPO6,"XPO6
+Synonyms
+EXP6, RANBP20
+External resources
+NCBI23214
+OMIM608411
+EnsemblENSG00000169180
+HGNCHGNC:19733
+Summary
+The protein encoded by this gene is a member of the importin-beta family. Members of this family are regulated by the GTPase Ran to mediate transport of cargo across the nuclear envelope. This protein has been shown to mediate nuclear export of profilin-actin complexes. A pseudogene of this gene is located on the long arm of chromosome 14. Alternative splicing results in multiple transcript variants that encode different protein isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+6,445
+Likely benign
+3,329
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XPO6 gene."
+24,https://3billion.io/gene/XPOT/,XPOT,"XPOT
+Synonyms
+XPO3
+External resources
+NCBI11260
+OMIM603180
+EnsemblENSG00000184575
+HGNCHGNC:12826
+Summary
+This gene encodes a protein belonging to the RAN-GTPase exportin family that mediates export of tRNA from the nucleus to the cytoplasm. Translocation of tRNA to the cytoplasm occurs once exportin has bound both tRNA and GTP-bound RAN.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+5,254
+Likely benign
+2,039
+Benign
+1","Patient phenotypes
+Proportions of phenotypes among 3 patients carrying pathogenic or likely pathogenic variants on XPOT gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+66.7%
+Abnormality of limbs
+33.3%
+Abnormality of the genitourinary system
+33.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+25,https://3billion.io/gene/XYLB/,XYLB,"XYLB
+Synonyms
+-
+External resources
+NCBI9942
+OMIM604049
+EnsemblENSG00000093217
+HGNCHGNC:12839
+Summary
+The protein encoded by this gene shares 22% sequence identity with Hemophilus influenzae xylulokinase, and even higher identity to other gene products in C.elegans (45%) and yeast (31-35%), which are thought to belong to a family of enzymes that include fucokinase, gluconokinase, glycerokinase and xylulokinase. These proteins play important roles in energy metabolism.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+30,365
+Likely benign
+1,633
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XYLB gene."
+26,https://3billion.io/gene/XAGE5/,XAGE5,"XAGE5
+Synonyms
+CT12.5, GAGED5, XAGE-5
+External resources
+NCBI170627
+EnsemblENSG00000171405
+HGNCHGNC:30930
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+395
+Likely benign
+202
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XAGE5 gene."
+27,https://3billion.io/gene/XAGE3/,XAGE3,"XAGE3
+Synonyms
+CT12.3a, CT12.3b, GAGED4, PLAC6, XAGE-3, pp9012
+External resources
+NCBI170626
+OMIM300740
+EnsemblENSG00000171402
+HGNCHGNC:14618
+Summary
+This gene is a member of the XAGE subfamily, which belongs to the GAGE family. The GAGE genes are expressed in a variety of tumors and in some fetal and reproductive tissues. This gene is expressed in placenta and fetal liver/spleen, and may function in inhibiting cancer cell growth. The protein encoded by this gene shares a sequence similarity with other GAGE/PAGE proteins. Because of the expression pattern and the sequence similarity, this protein also belongs to a family of CT (cancer-testis) antigens. Alternative splicing of this gene generates 2 transcript variants differing in the 5' UTR.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+122,203
+Likely benign
+17,200
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XAGE3 gene."
+28,https://3billion.io/gene/XPA/,XPA,"XPA
+Synonyms
+XP1, XPAC
+External resources
+NCBI7507
+OMIM611153
+EnsemblENSG00000136936
+HGNCHGNC:12814
+Summary
+This gene encodes a zinc finger protein plays a central role in nucleotide excision repair (NER), a specialized type of DNA repair. NER is responsible for repair of UV radiation-induced photoproducts and DNA adducts induced by chemical carcinogens and chemotherapeutic drugs. The encoded protein interacts with DNA and several NER proteins, acting as a scaffold to assemble the NER incision complex at sites of DNA damage. Mutations in this gene cause Xeroderma pigmentosum complementation group A (XP-A), an autosomal recessive skin disorder featuring hypersensitivity to sunlight and increased risk for skin cancer.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+37
+Likely pathogenic
+1
+VUS
+1,178
+Likely benign
+607
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 35 patients carrying pathogenic or likely pathogenic variants on XPA gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+28.6%
+Abnormality of the nervous system
+22.9%
+Abnormality of the cardiovascular system
+20%
+Abnormality of the eye
+20%
+Abnormality of head or neck
+17.1%
+Abnormality of the integument
+14.3%
+Abnormality of the immune system
+11.4%
+Abnormality of the ear
+8.6%
+Growth abnormality
+8.6%
+Abnormality of the genitourinary system
+5.7%
+Abnormality of the digestive system
+2.9%
+Abnormality of the respiratory system
+2.9%
+Neoplasm
+2.9%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+29,https://3billion.io/gene/XPNPEP3/,XPNPEP3,"XPNPEP3
+Synonyms
+APP3, ICP55, NPHPL1
+External resources
+NCBI63929
+OMIM613553
+EnsemblENSG00000196236
+HGNCHGNC:28052
+Summary
+The protein encoded by this gene belongs to the family of X-pro-aminopeptidases that utilize a metal cofactor, and remove the N-terminal amino acid from peptides with a proline residue in the penultimate position. This protein has been shown to localize to the mitochondria of renal cells, and have a role in ciliary function. Mutations in this gene are associated with nephronophthisis-like nephropathy-1. Alternatively spliced transcript variants encoding different isoforms have been noted for this gene, however, expression of some of these isoforms in vivo is not known.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+13
+Likely pathogenic
+0
+VUS
+4,854
+Likely benign
+2,248
+Benign
+477","Patient phenotypes
+Proportions of phenotypes among 12 patients carrying pathogenic or likely pathogenic variants on XPNPEP3 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the genitourinary system
+41.7%
+Abnormality of the nervous system
+33.3%
+Abnormality of the cardiovascular system
+25%
+Abnormality of blood and blood-forming tissues
+16.7%
+Abnormality of head or neck
+16.7%
+Abnormality of limbs
+16.7%
+Abnormality of the digestive system
+16.7%
+Abnormality of the ear
+16.7%
+Abnormality of the endocrine system
+16.7%
+Abnormality of prenatal development or birth
+8.3%
+Abnormality of the eye
+8.3%
+Abnormality of the immune system
+8.3%
+Abnormality of the integument
+8.3%
+Abnormality of the musculoskeletal system
+8.3%
+Constitutional symptom
+8.3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+30,https://3billion.io/gene/XKR9/,XKR9,"XKR9
+Synonyms
+XRG9, hXKR9
+External resources
+NCBI389668
+EnsemblENSG00000221947
+HGNCHGNC:20937
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,917
+Likely benign
+358
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XKR9 gene."
+31,https://3billion.io/gene/XCL2/,XCL2,"XCL2
+Synonyms
+SCM-1b, SCM1B, SCYC2
+External resources
+NCBI6846
+OMIM604828
+EnsemblENSG00000143185
+HGNCHGNC:10646
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,631
+Likely benign
+803
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XCL2 gene."
+32,https://3billion.io/gene/XCL1/,XCL1,"XCL1
+Synonyms
+ATAC, LPTN, LTN, SCM-1, SCM-1a, SCM1, SCM1A, SCYC1
+External resources
+NCBI6375
+OMIM600250
+EnsemblENSG00000143184
+HGNCHGNC:10645
+Summary
+This antimicrobial gene encodes a member of the chemokine superfamily. Chemokines function in inflammatory and immunological responses, inducing leukocyte migration and activation. The encoded protein is a member of the C-chemokine subfamily, retaining only two of four cysteines conserved in other chemokines, and is thought to be specifically chemotactic for T cells. This gene and a closely related family member are located on the long arm of chromosome 1.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+22,581
+Likely benign
+21,815
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XCL1 gene."
+33,https://3billion.io/gene/XDH/,XDH,"XDH
+Synonyms
+XAN1, XO, XOR
+External resources
+NCBI7498
+OMIM607633
+EnsemblENSG00000158125
+HGNCHGNC:12805
+Summary
+Xanthine dehydrogenase belongs to the group of molybdenum-containing hydroxylases involved in the oxidative metabolism of purines. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. Xanthine dehydrogenase can be converted to xanthine oxidase by reversible sulfhydryl oxidation or by irreversible proteolytic modification. Defects in xanthine dehydrogenase cause xanthinuria, may contribute to adult respiratory stress syndrome, and may potentiate influenza infection through an oxygen metabolite-dependent mechanism.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+43
+Likely pathogenic
+0
+VUS
+7,451
+Likely benign
+6,426
+Benign
+726","Patient phenotypes
+Proportions of phenotypes among 43 patients carrying pathogenic or likely pathogenic variants on XDH gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+44.2%
+Abnormality of the musculoskeletal system
+25.6%
+Abnormality of head or neck
+20.9%
+Abnormality of the eye
+16.3%
+Abnormality of the cardiovascular system
+11.6%
+Abnormality of the integument
+11.6%
+Abnormality of the genitourinary system
+9.3%
+Abnormality of limbs
+7%
+Abnormality of the ear
+7%
+Abnormality of blood and blood-forming tissues
+4.7%
+Abnormality of the digestive system
+4.7%
+Abnormality of the respiratory system
+4.7%
+Growth abnormality
+4.7%
+Abnormality of the endocrine system
+2.3%
+Abnormality of the immune system
+2.3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+34,https://3billion.io/gene/XAF1/,XAF1,"XAF1
+Synonyms
+BIRC4BP, HSXIAPAF1, XIAPAF1
+External resources
+NCBI54739
+OMIM606717
+EnsemblENSG00000132530
+HGNCHGNC:30932
+Summary
+This gene encodes a protein which binds to and counteracts the inhibitory effect of a member of the IAP (inhibitor of apoptosis) protein family. IAP proteins bind to and inhibit caspases which are activated during apoptosis. The proportion of IAPs and proteins which interfere with their activity, such as the encoded protein, affect the progress of the apoptosis signaling pathway. Multiple transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+11,884
+Likely benign
+632
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XAF1 gene."
+35,https://3billion.io/gene/XPNPEP1/,XPNPEP1,"XPNPEP1
+Synonyms
+APP1, SAMP, XPNPEP, XPNPEPL, XPNPEPL1
+External resources
+NCBI7511
+OMIM602443
+EnsemblENSG00000108039
+HGNCHGNC:12822
+Summary
+This gene encodes the cytosolic form of a metalloaminopeptidase that catalyzes the cleavage of the N-terminal amino acid adjacent to a proline residue. The gene product may play a role in degradation and maturation of tachykinins, neuropeptides, and peptide hormones. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+4,446
+Likely benign
+2,022
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XPNPEP1 gene."
+36,https://3billion.io/gene/XPNPEP2/,XPNPEP2,"XPNPEP2
+Synonyms
+AEACEI, APP2
+External resources
+NCBI7512
+OMIM300145
+EnsemblENSG00000122121
+HGNCHGNC:12823
+Summary
+Aminopeptidase P is a hydrolase specific for N-terminal imido bonds, which are common to several collagen degradation products, neuropeptides, vasoactive peptides, and cytokines. Structurally, the enzyme is a member of the 'pita bread fold' family and occurs in mammalian tissues in both soluble and GPI-anchored membrane-bound forms. A membrane-bound and soluble form of this enzyme have been identified as products of two separate genes.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,608
+Likely benign
+928
+Benign
+12,004","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XPNPEP2 gene."
+37,https://3billion.io/gene/XRN1/,XRN1,"XRN1
+Synonyms
+SEP1
+External resources
+NCBI54464
+OMIM607994
+EnsemblENSG00000114127
+HGNCHGNC:30654
+Summary
+This gene encodes a member of the 5'-3' exonuclease family. The encoded protein may be involved in replication-dependent histone mRNA degradation, and interacts directly with the enhancer of mRNA-decapping protein 4. In addition to mRNA metabolism, a similar protein in yeast has been implicated in a variety of nuclear and cytoplasmic functions, including homologous recombination, meiosis, telomere maintenance, and microtubule assembly. Mutations in this gene are associated with osteosarcoma, suggesting that the encoded protein may also play a role in bone formation. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+4
+Likely pathogenic
+0
+VUS
+6,645
+Likely benign
+4,543
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on XRN1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+50%
+Abnormality of the nervous system
+50%
+Abnormality of head or neck
+25%
+Abnormality of the ear
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+38,https://3billion.io/gene/XRN2/,XRN2,"XRN2
+Synonyms
+-
+External resources
+NCBI22803
+OMIM608851
+EnsemblENSG00000088930
+HGNCHGNC:12836
+Summary
+This gene encodes a 5'-3' exonuclease that promotes transcription termination at cotranscriptional cleavage sites. Alternative splicing results in multiple transcript variants encoding different isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+5,602
+Likely benign
+3,199
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XRN2 gene."
+39,https://3billion.io/gene/XXYLT1/,XXYLT1,"XXYLT1
+Synonyms
+C3orf21
+External resources
+NCBI152002
+OMIM614552
+EnsemblENSG00000173950
+HGNCHGNC:26639
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+18,422
+Likely benign
+873
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XXYLT1 gene."
+40,https://3billion.io/gene/XKRX/,XKRX,"XKRX
+Synonyms
+XKR2, XPLAC, XRG2
+External resources
+NCBI402415
+OMIM300684
+EnsemblENSG00000182489
+HGNCHGNC:29845
+Summary
+This gene encodes a protein that is related to a component of the XK/Kell complex of the Kell blood group system. The encoded protein includes several transmembrane domains, is known to be exposed to the cell surface, and may function as a membrane transporter.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+412
+Likely benign
+495
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XKRX gene."
+41,https://3billion.io/gene/XKR5/,XKR5,"XKR5
+Synonyms
+HARL2754, UNQ2754, XRG5A, XRG5BM
+External resources
+NCBI389610
+EnsemblENSG00000275591
+HGNCHGNC:20782
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,302
+Likely benign
+7,108
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XKR5 gene."
+42,https://3billion.io/gene/XKR4/,XKR4,"XKR4
+Synonyms
+XRG4, hXKR4
+External resources
+NCBI114786
+EnsemblENSG00000206579
+HGNCHGNC:29394
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+1,939
+Likely benign
+723
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on XKR4 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+43,https://3billion.io/gene/XKR7/,XKR7,"XKR7
+Synonyms
+C20orf159, dJ310O13.4
+External resources
+NCBI343702
+EnsemblENSG00000260903
+HGNCHGNC:23062
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+12
+Likely pathogenic
+0
+VUS
+1,381
+Likely benign
+1,272
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on XKR7 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the ear
+25%
+Abnormality of the eye
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+44,https://3billion.io/gene/XKR6/,XKR6,"XKR6
+Synonyms
+C8orf21, C8orf5, C8orf7, XRG6
+External resources
+NCBI286046
+EnsemblENSG00000171044
+HGNCHGNC:27806
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+2,011
+Likely benign
+784
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on XKR6 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the cardiovascular system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+45,https://3billion.io/gene/XKR3/,XKR3,"XKR3
+Synonyms
+XRG3, XTES
+External resources
+NCBI150165
+OMIM611674
+EnsemblENSG00000172967
+HGNCHGNC:28778
+Summary
+XKRX (MIM 300684) and XKR3 are homologs of the Kell blood group precursor XK (MIM 314850), which is a putative membrane transporter and a component of the XK/Kell complex of the Kell blood group system (Calenda et al., 2006 [PubMed 16431037]).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+31,128
+Likely benign
+137
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XKR3 gene."
+46,https://3billion.io/gene/XKR8/,XKR8,"XKR8
+Synonyms
+XRG8, hXkr8
+External resources
+NCBI55113
+EnsemblENSG00000158156
+HGNCHGNC:25508
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,674
+Likely benign
+461
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on XKR8 gene."

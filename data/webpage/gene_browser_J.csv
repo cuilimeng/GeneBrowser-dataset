@@ -1,0 +1,1762 @@
+﻿,url,title,description,variant counts,patient phenotypes
+0,https://3billion.io/gene/JARID2/,JARID2,"JARID2
+Synonyms
+JMJ
+External resources
+NCBI3720
+OMIM601594
+EnsemblENSG00000008083
+HGNCHGNC:6196
+Summary
+This gene encodes a Jumonji- and AT-rich interaction domain (ARID)-domain-containing protein. The encoded protein is a DNA-binding protein that functions as a transcriptional repressor. This protein interacts with the Polycomb repressive complex 2 (PRC2) which plays an essential role in regulating gene expression during embryonic development. This protein facilitates the recruitment of the PRC2 complex to target genes. Alternate splicing results in multiple transcript variants. Mutations in this gene are associated with chronic myeloid malignancies.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+2,764
+Likely benign
+3,106
+Benign
+2,896","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on JARID2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of prenatal development or birth
+50%
+Abnormality of the cardiovascular system
+50%
+Abnormality of the eye
+50%
+Abnormality of the integument
+50%
+Abnormality of the nervous system
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+1,https://3billion.io/gene/JAK2/,JAK2,"JAK2
+Synonyms
+JTK10
+External resources
+NCBI3717
+OMIM147796
+EnsemblENSG00000096968
+HGNCHGNC:6192
+Summary
+This gene encodes a non-receptor tyrosine kinase that plays a central role in cytokine and growth factor signalling. The primary isoform of this protein has an N-terminal FERM domain that is required for erythropoietin receptor association, an SH2 domain that binds STAT transcription factors, a pseudokinase domain and a C-terminal tyrosine kinase domain. Cytokine binding induces autophosphorylation and activation of this kinase. This kinase then recruits and phosphorylates signal transducer and activator of transcription (STAT) proteins. Growth factors like TGF-beta 1 also induce phosphorylation and activation of this kinase and translocation of downstream STAT proteins to the nucleus where they influence gene transcription. Mutations in this gene are associated with numerous inflammatory diseases and malignancies. This gene is a downstream target of the pleiotropic cytokine IL6 that is produced by B cells, T cells, dendritic cells and macrophages to produce an immune response or inflammation. Disregulation of the IL6/JAK2/STAT3 signalling pathways produces increased cellular proliferation and myeloproliferative neoplasms of hematopoietic stem cells. A nonsynonymous mutation in the pseudokinase domain of this gene disrupts the domains inhibitory effect and results in constitutive tyrosine phosphorylation activity and hypersensitivity to cytokine signalling. This gene and the IL6/JAK2/STAT3 signalling pathway is a therapeutic target for the treatment of excessive inflammatory responses to viral infections. Alternative splicing results in multiple transcript variants encoding distinct isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+10
+Likely pathogenic
+12
+VUS
+4,649
+Likely benign
+1,019
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 22 patients carrying pathogenic or likely pathogenic variants on JAK2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the cardiovascular system
+27.3%
+Abnormality of the musculoskeletal system
+22.7%
+Abnormality of the nervous system
+22.7%
+Abnormality of the eye
+18.2%
+Abnormality of the immune system
+13.6%
+Abnormality of the genitourinary system
+9.1%
+Abnormality of head or neck
+4.5%
+Abnormality of limbs
+4.5%
+Abnormality of the digestive system
+4.5%
+Abnormality of the ear
+4.5%
+Constitutional symptom
+4.5%
+Neoplasm
+4.5%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Growth abnormality
+0%"
+2,https://3billion.io/gene/JAK3/,JAK3,"JAK3
+Synonyms
+JAK-3, JAK3_HUMAN, JAKL, L-JAK, LJAK
+External resources
+NCBI3718
+OMIM600173
+EnsemblENSG00000105639
+HGNCHGNC:6193
+Summary
+The protein encoded by this gene is a member of the Janus kinase (JAK) family of tyrosine kinases involved in cytokine receptor-mediated intracellular signal transduction. It is predominantly expressed in immune cells and transduces a signal in response to its activation via tyrosine phosphorylation by interleukin receptors. Mutations in this gene are associated with autosomal SCID (severe combined immunodeficiency disease).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+27
+Likely pathogenic
+0
+VUS
+15,842
+Likely benign
+2,895
+Benign
+570","Patient phenotypes
+Proportions of phenotypes among 26 patients carrying pathogenic or likely pathogenic variants on JAK3 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+30.8%
+Abnormality of the cardiovascular system
+26.9%
+Abnormality of head or neck
+15.4%
+Abnormality of the eye
+15.4%
+Abnormality of the musculoskeletal system
+15.4%
+Abnormality of limbs
+11.5%
+Abnormality of the digestive system
+7.7%
+Abnormality of the ear
+7.7%
+Abnormality of the integument
+7.7%
+Growth abnormality
+7.7%
+Abnormality of the breast
+3.8%
+Abnormality of the genitourinary system
+3.8%
+Abnormality of the immune system
+3.8%
+Abnormality of the respiratory system
+3.8%
+Neoplasm
+3.8%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+3,https://3billion.io/gene/JAK1/,JAK1,"JAK1
+Synonyms
+AIIDE, JAK1A, JAK1B, JTK3
+External resources
+NCBI3716
+OMIM147795
+EnsemblENSG00000162434
+HGNCHGNC:6190
+Summary
+This gene encodes a membrane protein that is a member of a class of protein-tyrosine kinases (PTK) characterized by the presence of a second phosphotransferase-related domain immediately N-terminal to the PTK domain. The encoded kinase phosphorylates STAT proteins (signal transducers and activators of transcription) and plays a key role in interferon-alpha/beta, interferon-gamma, and cytokine signal transduction. This gene plays a crucial role in effecting the expression of genes that mediate inflammation, epithelial remodeling, and metastatic cancer progression. This gene is a key component of the interleukin-6 (IL-6)/JAK1/STAT3 immune and inflammation response and is a therapeutic target for alleviating cytokine storms. The kinase activity of this gene is directly inhibited by the suppressor of cytokine signalling 1 (SOCS1) protein. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+1
+VUS
+6,388
+Likely benign
+746
+Benign
+587","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on JAK1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of prenatal development or birth
+50%
+Abnormality of the integument
+50%
+Abnormality of the nervous system
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+4,https://3billion.io/gene/JAKMIP3/,JAKMIP3,"JAKMIP3
+Synonyms
+C10orf14, C10orf39, Jamip3, NECC2, bA140A10.5
+External resources
+NCBI282973
+OMIM611198
+EnsemblENSG00000188385
+HGNCHGNC:23523
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+21,098
+Likely benign
+9,493
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JAKMIP3 gene."
+5,https://3billion.io/gene/JAKMIP2/,JAKMIP2,"JAKMIP2
+Synonyms
+JAMIP2, NECC1
+External resources
+NCBI9832
+OMIM611197
+EnsemblENSG00000176049
+HGNCHGNC:29067
+Summary
+The protein encoded by this gene is reported to be a component of the Golgi matrix. It may act as a golgin protein by negatively regulating transit of secretory cargo and by acting as a structural scaffold of the Golgi. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+1
+VUS
+10,947
+Likely benign
+3,723
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on JAKMIP2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+75%
+Abnormality of blood and blood-forming tissues
+25%
+Abnormality of head or neck
+25%
+Abnormality of the cardiovascular system
+25%
+Abnormality of the genitourinary system
+25%
+Growth abnormality
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+6,https://3billion.io/gene/JAKMIP1/,JAKMIP1,"JAKMIP1
+Synonyms
+Gababrbp, JAMIP1, MARLIN1
+External resources
+NCBI152789
+OMIM611195
+EnsemblENSG00000152969
+HGNCHGNC:26460
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+157
+Likely pathogenic
+0
+VUS
+34,153
+Likely benign
+1,413
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 153 patients carrying pathogenic or likely pathogenic variants on JAKMIP1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+38.6%
+Abnormality of the musculoskeletal system
+26.1%
+Abnormality of the cardiovascular system
+23.5%
+Abnormality of the eye
+20.9%
+Abnormality of head or neck
+17.6%
+Abnormality of the genitourinary system
+14.4%
+Abnormality of the integument
+14.4%
+Abnormality of the ear
+13.1%
+Growth abnormality
+11.1%
+Abnormality of the digestive system
+9.8%
+Abnormality of limbs
+8.5%
+Abnormality of the immune system
+8.5%
+Abnormality of blood and blood-forming tissues
+6.5%
+Abnormality of the respiratory system
+3.9%
+Abnormality of prenatal development or birth
+3.3%
+Abnormality of the endocrine system
+3.3%
+Constitutional symptom
+2.6%
+Neoplasm
+2.6%
+Abnormal cellular phenotype
+1.3%
+Abnormality of the breast
+0.7%
+Abnormality of the voice
+0.7%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%"
+7,https://3billion.io/gene/JSRP1/,JSRP1,"JSRP1
+Synonyms
+JP-45, JP45
+External resources
+NCBI126306
+OMIM608743
+EnsemblENSG00000167476
+HGNCHGNC:24963
+Summary
+The protein encoded by this gene is involved in excitation-contraction coupling at the sarcoplasmic reticulum. The encoded protein can interact with CACNA1S, CACNB1, and calsequestrin to help regulate calcium influx and efflux in skeletal muscle.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+9,831
+Likely benign
+573
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JSRP1 gene."
+8,https://3billion.io/gene/JMJD6/,JMJD6,"JMJD6
+Synonyms
+PSR, PTDSR, PTDSR1
+External resources
+NCBI23210
+OMIM604914
+EnsemblENSG00000070495
+HGNCHGNC:19355
+Summary
+This gene encodes a nuclear protein with a JmjC domain. JmjC domain-containing proteins are predicted to function as protein hydroxylases or histone demethylases. This protein was first identified as a putative phosphatidylserine receptor involved in phagocytosis of apoptotic cells; however, subsequent studies have indicated that it does not directly function in the clearance of apoptotic cells, and questioned whether it is a true phosphatidylserine receptor. Multiple transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,575
+Likely benign
+1,980
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JMJD6 gene."
+9,https://3billion.io/gene/JMJD7/,JMJD7,"JMJD7
+Synonyms
+-
+External resources
+NCBI100137047
+EnsemblENSG00000243789
+HGNCHGNC:34397
+Summary
+This gene encodes a highly conserved protein with a JmjC domain, which are part of the cupin metalloenzyme superfamily. JmjC proteins may function as 2-oxoglutarate-Fe(II)-dependent dioxygenases. Most tissues also express read-through transcripts from this gene into the downstream phospholipase A2, group IVB (cytosolic) gene, some of which may encode fusion proteins combining the N-terminus of this protein with the phospholipase A2, group IVB protein.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+8,039
+Likely benign
+1,999
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JMJD7 gene."
+10,https://3billion.io/gene/JMJD4/,JMJD4,"JMJD4
+Synonyms
+-
+External resources
+NCBI65094
+EnsemblENSG00000081692
+HGNCHGNC:25724
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,212
+Likely benign
+1,175
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JMJD4 gene."
+11,https://3billion.io/gene/JMJD8/,JMJD8,"JMJD8
+Synonyms
+C16orf20, PP14397
+External resources
+NCBI339123
+EnsemblENSG00000161999
+HGNCHGNC:14148
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,557
+Likely benign
+327
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JMJD8 gene."
+12,https://3billion.io/gene/JPH2/,JPH2,"JPH2
+Synonyms
+CMD2E, CMH17, JP-2, JP2
+External resources
+NCBI57158
+OMIM605267
+EnsemblENSG00000149596
+HGNCHGNC:14202
+Summary
+Junctional complexes between the plasma membrane and endoplasmic/sarcoplasmic reticulum are a common feature of all excitable cell types and mediate cross talk between cell surface and intracellular ion channels. The protein encoded by this gene is a component of junctional complexes and is composed of a C-terminal hydrophobic segment spanning the endoplasmic/sarcoplasmic reticulum membrane and a remaining cytoplasmic domain that shows specific affinity for the plasma membrane. This gene is a member of the junctophilin gene family. Alternative splicing has been observed at this locus and two variants encoding distinct isoforms are described.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+52
+Likely pathogenic
+0
+VUS
+1,880
+Likely benign
+407
+Benign
+1,211","Patient phenotypes
+Proportions of phenotypes among 28 patients carrying pathogenic or likely pathogenic variants on JPH2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+39.3%
+Abnormality of the nervous system
+39.3%
+Abnormality of the cardiovascular system
+28.6%
+Abnormality of the musculoskeletal system
+28.6%
+Abnormality of head or neck
+14.3%
+Abnormality of limbs
+14.3%
+Abnormality of the digestive system
+14.3%
+Abnormality of the ear
+10.7%
+Growth abnormality
+10.7%
+Abnormality of the integument
+7.1%
+Abnormality of prenatal development or birth
+3.6%
+Abnormality of the immune system
+3.6%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+13,https://3billion.io/gene/JPH3/,JPH3,"JPH3
+Synonyms
+CAGL237, HDL2, JP-3, JP3, TNRC22
+External resources
+NCBI57338
+OMIM605268
+EnsemblENSG00000154118
+HGNCHGNC:14203
+Summary
+Junctional complexes between the plasma membrane and endoplasmic/sarcoplasmic reticulum are a common feature of all excitable cell types and mediate cross talk between cell surface and intracellular ion channels. The protein encoded by this gene is a component of junctional complexes and is composed of a C-terminal hydrophobic segment spanning the endoplasmic/sarcoplasmic reticulum membrane and a remaining cytoplasmic domain that shows specific affinity for the plasma membrane. CAG/CTG repeat expansion from normally 6-28 repeats to 40-59 repeats in the 3' UTR of this gene have been associated with Huntington disease-like 2 (HDL2). This gene is a member of the junctophilin gene family. Alternatively spliced transcript variants have been described for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+2,628
+Likely benign
+6,308
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on JPH3 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+100%
+Growth abnormality
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+14,https://3billion.io/gene/JPH1/,JPH1,"JPH1
+Synonyms
+CMT2K, JP-1, JP1
+External resources
+NCBI56704
+OMIM605266
+EnsemblENSG00000104369
+HGNCHGNC:14201
+Summary
+Junctional complexes between the plasma membrane and endoplasmic/sarcoplasmic reticulum are a common feature of all excitable cell types and mediate cross talk between cell surface and intracellular ion channels. The protein encoded by this gene is a component of junctional complexes and is composed of a C-terminal hydrophobic segment spanning the endoplasmic/sarcoplasmic reticulum membrane and a remaining cytoplasmic domain that shows specific affinity for the plasma membrane. This gene is a member of the junctophilin gene family.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,391
+Likely benign
+1,103
+Benign
+1","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JPH1 gene."
+15,https://3billion.io/gene/JPH4/,JPH4,"JPH4
+Synonyms
+JP4, JPHL1
+External resources
+NCBI84502
+EnsemblENSG00000092051
+HGNCHGNC:20156
+Summary
+This gene encodes a member of the junctophilin family of transmembrane proteins that are involved in the formation of the junctional membrane complexes between the plasma membrane and the endoplasmic/sarcoplasmic reticulum in excitable cells. The encoded protein contains a conserved N-terminal repeat region called the membrane occupation and recognition nexus sequence that is found in other members of the junctophilin family. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+12
+VUS
+3,936
+Likely benign
+1,713
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 14 patients carrying pathogenic or likely pathogenic variants on JPH4 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+28.6%
+Abnormality of the nervous system
+28.6%
+Abnormality of the ear
+21.4%
+Abnormality of the musculoskeletal system
+21.4%
+Abnormality of the cardiovascular system
+14.3%
+Abnormality of head or neck
+7.1%
+Abnormality of limbs
+7.1%
+Abnormality of the integument
+7.1%
+Abnormality of the respiratory system
+7.1%
+Abnormality of the voice
+7.1%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the thoracic cavity
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+16,https://3billion.io/gene/JUN/,JUN,"JUN
+Synonyms
+AP-1, AP1, c-Jun, cJUN, p39
+External resources
+NCBI3725
+OMIM165160
+EnsemblENSG00000177606
+HGNCHGNC:6204
+Summary
+This gene is the putative transforming gene of avian sarcoma virus 17. It encodes a protein which is highly similar to the viral protein, and which interacts directly with specific target DNA sequences to regulate gene expression. This gene is intronless and is mapped to 1p32-p31, a chromosomal region involved in both translocations and deletions in human malignancies.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+720
+Likely benign
+77
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JUN gene."
+17,https://3billion.io/gene/JUP/,JUP,"JUP
+Synonyms
+CTNNG, DP3, DPIII, PDGB, PG, PKGB
+External resources
+NCBI3728
+OMIM173325
+EnsemblENSG00000173801
+HGNCHGNC:6207
+Summary
+This gene encodes a major cytoplasmic protein which is the only known constituent common to submembranous plaques of both desmosomes and intermediate junctions. This protein forms distinct complexes with cadherins and desmosomal cadherins and is a member of the catenin family since it contains a distinct repeating amino acid motif called the armadillo repeat. Mutation in this gene has been associated with Naxos disease. Alternative splicing occurs in this gene; however, not all transcripts have been fully described.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+65
+Likely pathogenic
+0
+VUS
+4,709
+Likely benign
+288
+Benign
+680","Patient phenotypes
+Proportions of phenotypes among 57 patients carrying pathogenic or likely pathogenic variants on JUP gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+36.8%
+Abnormality of the musculoskeletal system
+28.1%
+Abnormality of the cardiovascular system
+24.6%
+Abnormality of head or neck
+19.3%
+Abnormality of the eye
+17.5%
+Abnormality of blood and blood-forming tissues
+10.5%
+Abnormality of the ear
+10.5%
+Abnormality of the genitourinary system
+10.5%
+Abnormality of the immune system
+10.5%
+Abnormality of the integument
+10.5%
+Growth abnormality
+10.5%
+Abnormality of the digestive system
+8.8%
+Abnormality of the respiratory system
+8.8%
+Abnormality of limbs
+7%
+Abnormality of the endocrine system
+7%
+Neoplasm
+5.3%
+Abnormality of prenatal development or birth
+3.5%
+Abnormal cellular phenotype
+1.8%
+Constitutional symptom
+1.8%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%"
+18,https://3billion.io/gene/JMY/,JMY,"JMY
+Synonyms
+WHAMM2, WHDC1L3
+External resources
+NCBI133746
+OMIM604279
+EnsemblENSG00000152409
+HGNCHGNC:28916
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+21
+Likely pathogenic
+17
+VUS
+11,778
+Likely benign
+2,757
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 33 patients carrying pathogenic or likely pathogenic variants on JMY gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+24.2%
+Abnormality of head or neck
+21.2%
+Abnormality of the cardiovascular system
+21.2%
+Abnormality of the musculoskeletal system
+21.2%
+Abnormality of the nervous system
+18.2%
+Abnormality of limbs
+12.1%
+Abnormality of the endocrine system
+12.1%
+Abnormality of the genitourinary system
+12.1%
+Abnormality of the integument
+12.1%
+Abnormality of blood and blood-forming tissues
+6.1%
+Abnormality of the digestive system
+6.1%
+Abnormality of the immune system
+6.1%
+Growth abnormality
+6.1%
+Abnormality of prenatal development or birth
+3%
+Abnormality of the ear
+3%
+Neoplasm
+3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+19,https://3billion.io/gene/JMJD1C/,JMJD1C,"JMJD1C
+Synonyms
+KDM3C, TRIP-8, TRIP8
+External resources
+NCBI221037
+OMIM604503
+EnsemblENSG00000171988
+HGNCHGNC:12313
+Summary
+The protein encoded by this gene interacts with thyroid hormone receptors and contains a jumonji domain. It is a candidate histone demethylase and is thought to be a coactivator for key transcription factors. It plays a role in the DNA-damage response pathway by demethylating the mediator of DNA damage checkpoint 1 (MDC1) protein, and is required for the survival of acute myeloid leukemia. Mutations in this gene are associated with Rett syndrome and intellectual disability. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+10
+Likely pathogenic
+0
+VUS
+20,132
+Likely benign
+4,726
+Benign
+2,206","Patient phenotypes
+Proportions of phenotypes among 9 patients carrying pathogenic or likely pathogenic variants on JMJD1C gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+44.4%
+Abnormality of the nervous system
+44.4%
+Abnormality of head or neck
+33.3%
+Abnormality of the eye
+33.3%
+Abnormality of prenatal development or birth
+22.2%
+Abnormality of the cardiovascular system
+22.2%
+Abnormality of the ear
+22.2%
+Growth abnormality
+22.2%
+Abnormality of limbs
+11.1%
+Abnormality of the digestive system
+11.1%
+Abnormality of the genitourinary system
+11.1%
+Abnormality of the integument
+11.1%
+Neoplasm
+11.1%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+20,https://3billion.io/gene/JAML/,JAML,"JAML
+Synonyms
+AMICA, AMICA1, CREA7-1, CREA7-4, Gm638
+External resources
+NCBI120425
+OMIM609770
+EnsemblENSG00000160593
+HGNCHGNC:19084
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,132
+Likely benign
+145
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JAML gene."
+21,https://3billion.io/gene/JAM2/,JAM2,"JAM2
+Synonyms
+C21orf43, CD322, IBGC8, JAM-B, JAMB, PRO245, VE-JAM, VEJAM
+External resources
+NCBI58494
+OMIM606870
+EnsemblENSG00000154721
+HGNCHGNC:14686
+Summary
+This gene belongs to the immunoglobulin superfamily, and the junctional adhesion molecule (JAM) family. The protein encoded by this gene is a type I membrane protein that is localized at the tight junctions of both epithelial and endothelial cells. It acts as an adhesive ligand for interacting with a variety of immune cell types, and may play a role in lymphocyte homing to secondary lymphoid organs. Alternatively spliced transcript variants have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+1,235
+Likely benign
+693
+Benign
+42","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on JAM2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the cardiovascular system
+100%
+Abnormality of the digestive system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+22,https://3billion.io/gene/JAM3/,JAM3,"JAM3
+Synonyms
+JAM-2, JAM-3, JAM-C, JAMC
+External resources
+NCBI83700
+OMIM606871
+EnsemblENSG00000166086
+HGNCHGNC:15532
+Summary
+Tight junctions represent one mode of cell-to-cell adhesion in epithelial or endothelial cell sheets, forming continuous seals around cells and serving as a physical barrier to prevent solutes and water from passing freely through the paracellular space. The protein encoded by this immunoglobulin superfamily gene member is localized in the tight junctions between high endothelial cells. Unlike other proteins in this family, the this protein is unable to adhere to leukocyte cell lines and only forms weak homotypic interactions. The encoded protein is a member of the junctional adhesion molecule protein family and acts as a receptor for another member of this family. A mutation in an intron of this gene is associated with hemorrhagic destruction of the brain, subependymal calcification, and congenital cataracts. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+6
+Likely pathogenic
+0
+VUS
+3,935
+Likely benign
+3,394
+Benign
+33","Patient phenotypes
+Proportions of phenotypes among 6 patients carrying pathogenic or likely pathogenic variants on JAM3 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of prenatal development or birth
+16.7%
+Abnormality of the eye
+16.7%
+Abnormality of the genitourinary system
+16.7%
+Abnormality of the musculoskeletal system
+16.7%
+Abnormality of the nervous system
+16.7%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+23,https://3billion.io/gene/JCHAIN/,JCHAIN,"JCHAIN
+Synonyms
+IGCJ, IGJ, JCH
+External resources
+NCBI3512
+OMIM147790
+EnsemblENSG00000132465
+HGNCHGNC:5713
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+916
+Likely benign
+81
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JCHAIN gene."
+24,https://3billion.io/gene/JKAMP/,JKAMP,"JKAMP
+Synonyms
+C14orf100, C24orf100, CDA06, HSPC213, HSPC327, JAMP
+External resources
+NCBI51528
+OMIM611176
+EnsemblENSG00000050130
+HGNCHGNC:20184
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,778
+Likely benign
+909
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JKAMP gene."
+25,https://3billion.io/gene/JDP2/,JDP2,"JDP2
+Synonyms
+JUNDM2
+External resources
+NCBI122953
+OMIM608657
+EnsemblENSG00000140044
+HGNCHGNC:17546
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+950
+Likely benign
+224
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JDP2 gene."
+26,https://3billion.io/gene/JMJD7-PLA2G4B/,JMJD7-PLA2G4B,"JMJD7-PLA2G4B
+Synonyms
+HsT16992, cPLA2-beta
+External resources
+NCBI8681
+EnsemblENSG00000168970
+HGNCHGNC:34449
+Summary
+This locus represents naturally-occurring readthrough transcription between the neighboring jumonji domain containing 7 (JMJD7) and phospholipase A2, group IVB (cytosolic) (PLA2G4B) genes. Readthrough transcripts encode fusion proteins that share amino acid sequence with each individual gene product, including a partial JmjC domain and downstream C2 and phospholipase A2 domains. Alternatively spliced transcript variants have been observed.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+14,528
+Likely benign
+4,902
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JMJD7-PLA2G4B gene."
+27,https://3billion.io/gene/JRKL/,JRKL,"JRKL
+Synonyms
+HHMJG
+External resources
+NCBI8690
+OMIM603211
+EnsemblENSG00000183340
+HGNCHGNC:6200
+Summary
+The function of this gene has not yet been defined, however, the encoded protein shares similarity with the human (41% identical) and mouse (34% identical) jerky gene products. This protein may act as a nuclear regulatory protein. Alternatively spliced transcript variants have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+242
+Likely benign
+63
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JRKL gene."
+28,https://3billion.io/gene/JUNB/,JUNB,"JUNB
+Synonyms
+AP-1
+External resources
+NCBI3726
+OMIM165161
+EnsemblENSG00000171223
+HGNCHGNC:6205
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+460
+Likely benign
+196
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JUNB gene."
+29,https://3billion.io/gene/JUND/,JUND,"JUND
+Synonyms
+AP-1
+External resources
+NCBI3727
+OMIM165162
+EnsemblENSG00000130522
+HGNCHGNC:6206
+Summary
+The protein encoded by this intronless gene is a member of the JUN family, and a functional component of the AP1 transcription factor complex. This protein has been proposed to protect cells from p53-dependent senescence and apoptosis. Alternative translation initiation site usage results in the production of different isoforms (PMID:12105216).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,749
+Likely benign
+255
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JUND gene."
+30,https://3billion.io/gene/JAG2/,JAG2,"JAG2
+Synonyms
+HJ2, LGMDR27, SER2
+External resources
+NCBI3714
+OMIM602570
+EnsemblENSG00000184916
+HGNCHGNC:6189
+Summary
+The Notch signaling pathway is an intercellular signaling mechanism that is essential for proper embryonic development. Members of the Notch gene family encode transmembrane receptors that are critical for various cell fate decisions. The protein encoded by this gene is one of several ligands that activate Notch and related receptors. Two transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+6
+Likely pathogenic
+0
+VUS
+11,019
+Likely benign
+7,865
+Benign
+684","Patient phenotypes
+Proportions of phenotypes among 6 patients carrying pathogenic or likely pathogenic variants on JAG2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+66.7%
+Abnormality of the musculoskeletal system
+50%
+Abnormality of head or neck
+16.7%
+Abnormality of the genitourinary system
+16.7%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+31,https://3billion.io/gene/JAG1/,JAG1,"JAG1
+Synonyms
+AGS, AGS1, AHD, AWS, CD339, CMT2HH, DCHE, HJ1, JAGL1
+External resources
+NCBI182
+OMIM601920
+EnsemblENSG00000101384
+HGNCHGNC:6188
+Summary
+The jagged 1 protein encoded by JAG1 is the human homolog of the Drosophilia jagged protein. Human jagged 1 is the ligand for the receptor notch 1, the latter is involved in signaling processes. Mutations that alter the jagged 1 protein cause Alagille syndrome. Jagged 1 signalling through notch 1 has also been shown to play a role in hematopoiesis.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+6
+Likely pathogenic
+1
+VUS
+11,173
+Likely benign
+5,999
+Benign
+859","Patient phenotypes
+Proportions of phenotypes among 7 patients carrying pathogenic or likely pathogenic variants on JAG1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the digestive system
+57.1%
+Abnormality of prenatal development or birth
+28.6%
+Abnormality of the eye
+28.6%
+Growth abnormality
+28.6%
+Abnormality of head or neck
+14.3%
+Abnormality of the cardiovascular system
+14.3%
+Abnormality of the endocrine system
+14.3%
+Abnormality of the genitourinary system
+14.3%
+Abnormality of the immune system
+14.3%
+Abnormality of the integument
+14.3%
+Abnormality of the musculoskeletal system
+14.3%
+Abnormality of the nervous system
+14.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the ear
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+32,https://3billion.io/gene/JTB/,JTB,"JTB
+Synonyms
+HJTB, HSPC222, PAR, hJT
+External resources
+NCBI10899
+OMIM604671
+EnsemblENSG00000143543
+HGNCHGNC:6201
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,899
+Likely benign
+3,612
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JTB gene."
+33,https://3billion.io/gene/JOSD1/,JOSD1,"JOSD1
+Synonyms
+dJ508I15.2
+External resources
+NCBI9929
+OMIM615323
+EnsemblENSG00000100221
+HGNCHGNC:28953
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+9,001
+Likely benign
+436
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JOSD1 gene."
+34,https://3billion.io/gene/JOSD2/,JOSD2,"JOSD2
+Synonyms
+SBBI54
+External resources
+NCBI126119
+OMIM615324
+EnsemblENSG00000161677
+HGNCHGNC:28853
+Summary
+This gene encodes a protein containing a Josephin domain. Josephin domain-containing proteins are deubiquitinating enzymes which catalyze the hydrolysis of the bond between the C-terminal glycine of the ubiquitin peptide and protein substrates. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,944
+Likely benign
+464
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JOSD2 gene."
+35,https://3billion.io/gene/JAGN1/,JAGN1,"JAGN1
+Synonyms
+GL009, SCN6
+External resources
+NCBI84522
+OMIM616012
+EnsemblENSG00000171135
+HGNCHGNC:26926
+Summary
+The protein encoded by this gene is a transmembrane protein. It functions in the early secretory pathway and is necessary for neutrophil differentiation and survival. Mutations in this gene result in severe congenital neutropenia.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,238
+Likely benign
+800
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JAGN1 gene."
+36,https://3billion.io/gene/JAZF1/,JAZF1,"JAZF1
+Synonyms
+TIP27, ZNF802
+External resources
+NCBI221895
+OMIM606246
+EnsemblENSG00000153814
+HGNCHGNC:28917
+Summary
+This gene encodes a nuclear protein with three C2H2-type zinc fingers, and functions as a transcriptional repressor. Chromosomal aberrations involving this gene are associated with endometrial stromal tumors. Alternatively spliced variants which encode different protein isoforms have been described; however, not all variants have been fully characterized","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,892
+Likely benign
+266
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JAZF1 gene."
+37,https://3billion.io/gene/JADE3/,JADE3,"JADE3
+Synonyms
+JADE-3, PHF16
+External resources
+NCBI9767
+OMIM300618
+EnsemblENSG00000102221
+HGNCHGNC:22982
+Summary
+This gene encodes a member of a family of large proteins containing PHD (plant homeo domain)-type zinc fingers. The encoded protein may be associated in a nuclear complex that functions in histone H4 acetylation. Alternative splicing results in multiple transcript variants encoding the same protein.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+2,044
+Likely benign
+321
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on JADE3 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+38,https://3billion.io/gene/JADE2/,JADE2,"JADE2
+Synonyms
+JADE-2, PHF15
+External resources
+NCBI23338
+OMIM610515
+EnsemblENSG00000043143
+HGNCHGNC:22984
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+4
+Likely pathogenic
+23
+VUS
+5,586
+Likely benign
+817
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 27 patients carrying pathogenic or likely pathogenic variants on JADE2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+44.4%
+Abnormality of the nervous system
+40.7%
+Abnormality of the musculoskeletal system
+29.6%
+Abnormality of head or neck
+18.5%
+Abnormality of limbs
+14.8%
+Abnormality of the cardiovascular system
+14.8%
+Growth abnormality
+7.4%
+Abnormality of the digestive system
+3.7%
+Abnormality of the ear
+3.7%
+Abnormality of the genitourinary system
+3.7%
+Abnormality of the immune system
+3.7%
+Abnormality of the integument
+3.7%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+39,https://3billion.io/gene/JADE1/,JADE1,"JADE1
+Synonyms
+PHF17
+External resources
+NCBI79960
+OMIM610514
+EnsemblENSG00000077684
+HGNCHGNC:30027
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,723
+Likely benign
+1,198
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JADE1 gene."
+40,https://3billion.io/gene/JRK/,JRK,"JRK
+Synonyms
+JH8, jerky
+External resources
+NCBI8629
+OMIM603210
+EnsemblENSG00000234616
+HGNCHGNC:6199
+Summary
+This gene encodes a conserved protein that is similar to DNA-binding proteins, such as major centromere autoantigen B (CENPB). Inactivation of the related gene in mice resulted in epileptic seizures. Childhood Absence Epilepsy (CAE) has been mapped to the same chromosomal location (8q24.3) as this gene. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,218
+Likely benign
+313
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on JRK gene."

@@ -1,0 +1,5745 @@
+﻿,url,title,description,variant counts,patient phenotypes
+0,https://3billion.io/gene/VMP1/,VMP1,"VMP1
+Synonyms
+EPG3, TANGO5, TMEM49
+External resources
+NCBI81671
+OMIM611753
+EnsemblENSG00000062716
+HGNCHGNC:29559
+Summary
+This gene encodes a transmembrane protein that plays a key regulatory role in the process of autophagy. The ectopic overexpression of the encoded protein in cultured cells triggers autophagy even under nutrient-rich conditions. This gene is overexpressed in pancreatitis affected acinar cells where the encoded protein mediates sequestration and degradation of potentially deleterious activated zymogen granules in a process termed, zymophagy.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+1,342
+Likely benign
+218
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 3 patients carrying pathogenic or likely pathogenic variants on VMP1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+66.7%
+Growth abnormality
+33.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+1,https://3billion.io/gene/VMO1/,VMO1,"VMO1
+Synonyms
+ERGA6350, PRO21055
+External resources
+NCBI284013
+EnsemblENSG00000182853
+HGNCHGNC:30387
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+21,498
+Likely benign
+157
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VMO1 gene."
+2,https://3billion.io/gene/VPS13D/,VPS13D,"VPS13D
+Synonyms
+SCAR4
+External resources
+NCBI55187
+OMIM608877
+EnsemblENSG00000048707
+HGNCHGNC:23595
+Summary
+This gene encodes a protein belonging to the vacuolar-protein-sorting-13 gene family. In yeast, vacuolar-protein-sorting-13 proteins are involved in trafficking of membrane proteins between the trans-Golgi network and the prevacuolar compartment. While several transcript variants may exist for this gene, the full-length natures of only two have been described to date. These two represent the major variants of this gene and encode distinct isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+21
+Likely pathogenic
+0
+VUS
+17,963
+Likely benign
+12,905
+Benign
+517","Patient phenotypes
+Proportions of phenotypes among 20 patients carrying pathogenic or likely pathogenic variants on VPS13D gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+50%
+Abnormality of head or neck
+40%
+Abnormality of the musculoskeletal system
+30%
+Abnormality of the cardiovascular system
+25%
+Abnormality of the digestive system
+20%
+Abnormality of the genitourinary system
+20%
+Growth abnormality
+20%
+Abnormality of limbs
+15%
+Abnormality of prenatal development or birth
+15%
+Abnormality of the endocrine system
+15%
+Abnormality of the eye
+10%
+Abnormality of the immune system
+10%
+Abnormality of the respiratory system
+10%
+Abnormality of blood and blood-forming tissues
+5%
+Abnormality of the ear
+5%
+Abnormality of the integument
+5%
+Constitutional symptom
+5%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Neoplasm
+0%"
+3,https://3billion.io/gene/VPS13A/,VPS13A,"VPS13A
+Synonyms
+CHAC, CHOREIN
+External resources
+NCBI23230
+OMIM605978
+EnsemblENSG00000197969
+HGNCHGNC:1908
+Summary
+The protein encoded by this gene may control steps in the cycling of proteins through the trans-Golgi network to endosomes, lysosomes and the plasma membrane. Mutations in this gene cause the autosomal recessive disorder, chorea-acanthocytosis. Alternative splicing of this gene results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+37
+Likely pathogenic
+0
+VUS
+18,879
+Likely benign
+22,065
+Benign
+548","Patient phenotypes
+Proportions of phenotypes among 35 patients carrying pathogenic or likely pathogenic variants on VPS13A gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+45.7%
+Abnormality of the musculoskeletal system
+28.6%
+Abnormality of head or neck
+17.1%
+Abnormality of the eye
+17.1%
+Growth abnormality
+17.1%
+Abnormality of the cardiovascular system
+14.3%
+Abnormality of the ear
+8.6%
+Abnormality of the digestive system
+5.7%
+Abnormality of blood and blood-forming tissues
+2.9%
+Abnormality of limbs
+2.9%
+Abnormality of the genitourinary system
+2.9%
+Abnormality of the immune system
+2.9%
+Neoplasm
+2.9%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+4,https://3billion.io/gene/VPS13C/,VPS13C,"VPS13C
+Synonyms
+PARK23
+External resources
+NCBI54832
+OMIM608879
+EnsemblENSG00000129003
+HGNCHGNC:23594
+Summary
+This gene encodes a member of the vacuolar protein sorting-associated 13 gene family. Alternate splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+60
+Likely pathogenic
+0
+VUS
+24,436
+Likely benign
+6,201
+Benign
+866","Patient phenotypes
+Proportions of phenotypes among 58 patients carrying pathogenic or likely pathogenic variants on VPS13C gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+37.9%
+Abnormality of the eye
+31%
+Abnormality of the musculoskeletal system
+29.3%
+Abnormality of head or neck
+27.6%
+Abnormality of the cardiovascular system
+27.6%
+Abnormality of the integument
+19%
+Abnormality of the ear
+12.1%
+Growth abnormality
+12.1%
+Abnormality of the genitourinary system
+10.3%
+Abnormality of limbs
+8.6%
+Abnormality of blood and blood-forming tissues
+6.9%
+Abnormality of the digestive system
+6.9%
+Abnormality of the immune system
+6.9%
+Abnormality of the endocrine system
+5.2%
+Abnormality of the respiratory system
+5.2%
+Constitutional symptom
+3.4%
+Abnormal cellular phenotype
+1.7%
+Abnormality of prenatal development or birth
+1.7%
+Neoplasm
+1.7%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%"
+5,https://3billion.io/gene/VPS13B/,VPS13B,"VPS13B
+Synonyms
+CHS1, COH1
+External resources
+NCBI157680
+OMIM607817
+EnsemblENSG00000132549
+HGNCHGNC:2183
+Summary
+This gene encodes a potential transmembrane protein that may function in vesicle-mediated transport and sorting of proteins within the cell. This protein may play a role in the development and the function of the eye, hematological system, and central nervous system. Mutations in this gene have been associated with Cohen syndrome. Multiple splice variants encoding distinct isoforms have been identified for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3,061
+Likely pathogenic
+2,055
+VUS
+24,999
+Likely benign
+19,906
+Benign
+1,727","Patient phenotypes
+Proportions of phenotypes among 3755 patients carrying pathogenic or likely pathogenic variants on VPS13B gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+39%
+Abnormality of the musculoskeletal system
+27.4%
+Abnormality of the cardiovascular system
+25.7%
+Abnormality of head or neck
+22%
+Abnormality of the eye
+21.5%
+Abnormality of the integument
+12.9%
+Growth abnormality
+12.7%
+Abnormality of the genitourinary system
+12.6%
+Abnormality of the ear
+12.1%
+Abnormality of limbs
+12%
+Abnormality of the digestive system
+8.8%
+Abnormality of the immune system
+7.4%
+Abnormality of blood and blood-forming tissues
+5%
+Abnormality of the endocrine system
+4.8%
+Abnormality of the respiratory system
+4.2%
+Neoplasm
+2.8%
+Abnormality of prenatal development or birth
+2.8%
+Constitutional symptom
+1.5%
+Abnormal cellular phenotype
+0.9%
+Abnormality of the breast
+0.7%
+Abnormality of the voice
+0.5%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%"
+6,https://3billion.io/gene/VGF/,VGF,"VGF
+Synonyms
+SCG7, SgVII
+External resources
+NCBI7425
+OMIM602186
+EnsemblENSG00000128564
+HGNCHGNC:12684
+Summary
+This gene is specifically expressed in a subpopulation of neuroendocrine cells, and is upregulated by nerve growth factor. The structural organization of this gene is similar to that of the rat gene, and both the translated and the untranslated regions show a high degree of sequence similarity to the rat gene. The encoded secretory protein also shares similarities with the secretogranin/chromogranin family, however, its exact function is not known.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,727
+Likely benign
+148
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VGF gene."
+7,https://3billion.io/gene/VPS25/,VPS25,"VPS25
+Synonyms
+DERP9, EAP20, FAP20
+External resources
+NCBI84313
+OMIM610907
+EnsemblENSG00000131475
+HGNCHGNC:28122
+Summary
+This gene encodes a protein that is a subunit of the endosomal sorting complex required for transport II (ESCRT-II). This protein complex functions in sorting of ubiquitinated membrane proteins during endocytosis. A pseudogene of this gene is present on chromosome 1.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,961
+Likely benign
+220
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS25 gene."
+8,https://3billion.io/gene/VPS28/,VPS28,"VPS28
+Synonyms
+-
+External resources
+NCBI51160
+OMIM611952
+EnsemblENSG00000160948
+HGNCHGNC:18178
+Summary
+This gene encodes a protein subunit of the ESCRT-I complex (endosomal complexes required for transport), which functions in the transport and sorting of proteins into subcellular vesicles. This complex can also be hijacked to facilitate the budding of enveloped viruses from the cell membrane. Alternative splicing results in multiple transcript variants encoding different isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,911
+Likely benign
+618
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS28 gene."
+9,https://3billion.io/gene/VSNL1/,VSNL1,"VSNL1
+Synonyms
+HLP3, HPCAL3, HUVISL1, VILIP, VILIP-1
+External resources
+NCBI7447
+OMIM600817
+EnsemblENSG00000163032
+HGNCHGNC:12722
+Summary
+This gene is a member of the visinin/recoverin subfamily of neuronal calcium sensor proteins. The encoded protein is strongly expressed in granule cells of the cerebellum where it associates with membranes in a calcium-dependent manner and modulates intracellular signaling pathways of the central nervous system by directly or indirectly regulating the activity of adenylyl cyclase. Alternatively spliced transcript variants have been observed, but their full-length nature has not been determined.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+4,521
+Likely benign
+108
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSNL1 gene."
+10,https://3billion.io/gene/VAV1/,VAV1,"VAV1
+Synonyms
+VAV
+External resources
+NCBI7409
+OMIM164875
+EnsemblENSG00000141968
+HGNCHGNC:12657
+Summary
+This gene is a member of the VAV gene family. The VAV proteins are guanine nucleotide exchange factors (GEFs) for Rho family GTPases that activate pathways leading to actin cytoskeletal rearrangements and transcriptional alterations. The encoded protein is important in hematopoiesis, playing a role in T-cell and B-cell development and activation. The encoded protein has been identified as the specific binding partner of Nef proteins from HIV-1. Coexpression and binding of these partners initiates profound morphological changes, cytoskeletal rearrangements and the JNK/SAPK signaling cascade, leading to increased levels of viral transcription and replication. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+16
+Likely pathogenic
+0
+VUS
+4,823
+Likely benign
+5,498
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 12 patients carrying pathogenic or likely pathogenic variants on VAV1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+41.7%
+Abnormality of the musculoskeletal system
+33.3%
+Abnormality of head or neck
+25%
+Abnormality of limbs
+16.7%
+Abnormality of the ear
+16.7%
+Abnormality of blood and blood-forming tissues
+8.3%
+Abnormality of the cardiovascular system
+8.3%
+Abnormality of the eye
+8.3%
+Abnormality of the immune system
+8.3%
+Abnormality of the integument
+8.3%
+Abnormality of the respiratory system
+8.3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+11,https://3billion.io/gene/VAV3/,VAV3,"VAV3
+Synonyms
+-
+External resources
+NCBI10451
+OMIM605541
+EnsemblENSG00000134215
+HGNCHGNC:12659
+Summary
+This gene is a member of the VAV gene family. The VAV proteins are guanine nucleotide exchange factors (GEFs) for Rho family GTPases that activate pathways leading to actin cytoskeletal rearrangements and transcriptional alterations. This gene product acts as a GEF preferentially for RhoG, RhoA, and to a lesser extent, RAC1, and it associates maximally with the nucleotide-free states of these GTPases. Alternatively spliced transcript variants encoding different isoforms have been described for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,115
+Likely benign
+6,137
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAV3 gene."
+12,https://3billion.io/gene/VAV2/,VAV2,"VAV2
+Synonyms
+VAV-2
+External resources
+NCBI7410
+OMIM600428
+EnsemblENSG00000160293
+HGNCHGNC:12658
+Summary
+VAV2 is the second member of the VAV guanine nucleotide exchange factor family of oncogenes. Unlike VAV1, which is expressed exclusively in hematopoietic cells, VAV2 transcripts were found in most tissues. Alternatively spliced transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+10,217
+Likely benign
+5,589
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAV2 gene."
+13,https://3billion.io/gene/VWF/,VWF,"VWF
+Synonyms
+F8VWF, VWD
+External resources
+NCBI7450
+OMIM613160
+EnsemblENSG00000110799
+HGNCHGNC:12726
+Summary
+This gene encodes a glycoprotein involved in hemostasis. The encoded preproprotein is proteolytically processed following assembly into large multimeric complexes. These complexes function in the adhesion of platelets to sites of vascular injury and the transport of various proteins in the blood. Mutations in this gene result in von Willebrand disease, an inherited bleeding disorder. An unprocessed pseudogene has been found on chromosome 22.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+270
+Likely pathogenic
+493
+VUS
+56,562
+Likely benign
+5,051
+Benign
+1,799","Patient phenotypes
+Proportions of phenotypes among 717 patients carrying pathogenic or likely pathogenic variants on VWF gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+37.7%
+Abnormality of the cardiovascular system
+35.4%
+Abnormality of the musculoskeletal system
+24%
+Abnormality of head or neck
+18%
+Abnormality of the eye
+16.9%
+Abnormality of the ear
+13.2%
+Abnormality of the genitourinary system
+12.6%
+Abnormality of limbs
+10.9%
+Abnormality of the integument
+9.9%
+Growth abnormality
+9.9%
+Abnormality of the digestive system
+8.4%
+Abnormality of the immune system
+6.1%
+Abnormality of blood and blood-forming tissues
+4.6%
+Abnormality of the endocrine system
+3.6%
+Abnormality of the respiratory system
+3.1%
+Abnormality of prenatal development or birth
+2.8%
+Neoplasm
+2.6%
+Constitutional symptom
+1.5%
+Abnormality of the breast
+0.7%
+Abnormality of the voice
+0.7%
+Abnormal cellular phenotype
+0.4%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%"
+14,https://3billion.io/gene/VSX2/,VSX2,"VSX2
+Synonyms
+CHX10, HOX10, MCOP2, MCOPCB3, RET1
+External resources
+NCBI338917
+OMIM142993
+EnsemblENSG00000119614
+HGNCHGNC:1975
+Summary
+This gene encodes a homeobox protein originally described as a retina-specific transcription factor. Mutations in this gene are associated with microphthalmia, cataracts and iris abnormalities.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+1,839
+Likely benign
+2,334
+Benign
+508","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on VSX2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+15,https://3billion.io/gene/VSTM5/,VSTM5,"VSTM5
+Synonyms
+C11orf90
+External resources
+NCBI387804
+EnsemblENSG00000214376
+HGNCHGNC:34443
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+658
+Likely benign
+234
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSTM5 gene."
+16,https://3billion.io/gene/VSTM4/,VSTM4,"VSTM4
+Synonyms
+C10orf72
+External resources
+NCBI196740
+EnsemblENSG00000165633
+HGNCHGNC:26470
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,226
+Likely benign
+872
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSTM4 gene."
+17,https://3billion.io/gene/VSTM1/,VSTM1,"VSTM1
+Synonyms
+SIRL-1, SIRL1, UNQ3033
+External resources
+NCBI284415
+OMIM616804
+EnsemblENSG00000189068
+HGNCHGNC:29455
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,028
+Likely benign
+2,662
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSTM1 gene."
+18,https://3billion.io/gene/VRTN/,VRTN,"VRTN
+Synonyms
+C14orf115, vertnin
+External resources
+NCBI55237
+EnsemblENSG00000133980
+HGNCHGNC:20223
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,638
+Likely benign
+972
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VRTN gene."
+19,https://3billion.io/gene/VPS52/,VPS52,"VPS52
+Synonyms
+ARE1, SAC2, SACM2L, dJ1033B10.5
+External resources
+NCBI6293
+OMIM603443
+EnsemblENSG00000223501
+HGNCHGNC:10518
+Summary
+This gene encodes a protein that is similar to the yeast suppressor of actin mutations 2 gene. The yeast protein forms a subunit of the tetrameric Golgi-associated retrograde protein complex that is involved in vesicle trafficking from from both early and late endosomes, back to the trans-Golgi network. This gene is located on chromosome 6 in a head-to-head orientation with the gene encoding ribosomal protein S18. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+16,217
+Likely benign
+4,151
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS52 gene."
+20,https://3billion.io/gene/VPS51/,VPS51,"VPS51
+Synonyms
+ANG2, ANG3, C11orf2, C11orf3, FFR, PCH13
+External resources
+NCBI738
+OMIM615738
+EnsemblENSG00000149823
+HGNCHGNC:1172
+Summary
+This gene encodes a member of the vacuolar protein sorting-associated protein 51 family. The encoded protein is a component of the Golgi-associated retrograde protein complex which acts as a tethering factor for carriers in retrograde transport from the early and late endosomes to the trans-Golgi network. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+25
+Likely pathogenic
+0
+VUS
+6,083
+Likely benign
+722
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 15 patients carrying pathogenic or likely pathogenic variants on VPS51 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+66.7%
+Abnormality of the musculoskeletal system
+33.3%
+Abnormality of head or neck
+26.7%
+Abnormality of the ear
+20%
+Abnormality of the eye
+20%
+Abnormality of the cardiovascular system
+13.3%
+Abnormality of the digestive system
+6.7%
+Growth abnormality
+6.7%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+21,https://3billion.io/gene/VPS54/,VPS54,"VPS54
+Synonyms
+HCC8, PPP1R164, SLP-8p, VPS54L, WR, hVps54L
+External resources
+NCBI51542
+OMIM614633
+EnsemblENSG00000143952
+HGNCHGNC:18652
+Summary
+This gene encodes for a protein that in yeast forms part of a trimeric vacuolar-protein-sorting complex that is required for retrograde transport of proteins from prevacuoles to the late Golgi compartment. As in yeast, mammalian Vps54 proteins contain a coiled-coil region and dileucine motifs. Alternative splicing results in multiple transcript variants encoding different isoforms","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+6
+Likely pathogenic
+0
+VUS
+10,963
+Likely benign
+6,506
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 5 patients carrying pathogenic or likely pathogenic variants on VPS54 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+80%
+Abnormality of the nervous system
+60%
+Abnormality of the ear
+40%
+Abnormality of the eye
+40%
+Abnormality of the integument
+40%
+Abnormality of the musculoskeletal system
+40%
+Growth abnormality
+40%
+Abnormality of the genitourinary system
+20%
+Constitutional symptom
+20%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Neoplasm
+0%"
+22,https://3billion.io/gene/VTI1A/,VTI1A,"VTI1A
+Synonyms
+MMDS3, MVti1, VTI1RP2, Vti1-rp2
+External resources
+NCBI143187
+OMIM614316
+EnsemblENSG00000151532
+HGNCHGNC:17792
+Summary
+The protein encoded by this gene is a member of the family of soluble N-ethylmaleimide-sensitive fusion protein-attachment protein receptors (SNAREs) that function in intracellular trafficking. This family member is involved in vesicular transport between endosomes and the trans-Golgi network. It is a vesicle-associated SNARE (v-SNARE) that interacts with target membrane SNAREs (t-SNAREs). Polymorphisms in this gene have been associated with binocular function, and also with susceptibility to colorectal and lung cancers. A recurrent rearrangement has been found between this gene and the transcription factor 7-like 2 (TCF7L2) gene in colorectal cancers. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,604
+Likely benign
+9,288
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VTI1A gene."
+23,https://3billion.io/gene/VTI1B/,VTI1B,"VTI1B
+Synonyms
+VTI1, VTI1-LIKE, VTI1L, VTI2, v-SNARE, vti1-rp1
+External resources
+NCBI10490
+OMIM603207
+EnsemblENSG00000100568
+HGNCHGNC:17793
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,986
+Likely benign
+313
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VTI1B gene."
+24,https://3billion.io/gene/VWA8/,VWA8,"VWA8
+Synonyms
+KIAA0564, P7BP2
+External resources
+NCBI23078
+OMIM617509
+EnsemblENSG00000102763
+HGNCHGNC:29071
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+60
+Likely pathogenic
+36
+VUS
+15,132
+Likely benign
+3,123
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 89 patients carrying pathogenic or likely pathogenic variants on VWA8 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+43.8%
+Abnormality of the musculoskeletal system
+32.6%
+Abnormality of the eye
+30.3%
+Abnormality of head or neck
+21.3%
+Abnormality of the cardiovascular system
+14.6%
+Growth abnormality
+14.6%
+Abnormality of the integument
+13.5%
+Abnormality of the genitourinary system
+11.2%
+Abnormality of limbs
+10.1%
+Abnormality of the ear
+10.1%
+Abnormality of blood and blood-forming tissues
+7.9%
+Abnormality of the digestive system
+7.9%
+Abnormality of the immune system
+6.7%
+Abnormality of prenatal development or birth
+3.4%
+Abnormality of the endocrine system
+3.4%
+Abnormality of the respiratory system
+3.4%
+Neoplasm
+2.2%
+Abnormality of the breast
+1.1%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+25,https://3billion.io/gene/VWA7/,VWA7,"VWA7
+Synonyms
+C6orf27, G7c, NG37
+External resources
+NCBI80737
+OMIM609693
+EnsemblENSG00000204396
+HGNCHGNC:13939
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+8,000
+Likely benign
+3,437
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWA7 gene."
+26,https://3billion.io/gene/VWA2/,VWA2,"VWA2
+Synonyms
+AMACO, CCSP-2, CCSP2, NET42
+External resources
+NCBI340706
+OMIM618281
+EnsemblENSG00000165816
+HGNCHGNC:24709
+Summary
+This gene encodes a member of the von Willebrand factor A-like domain protein superfamily. The encoded protein is localized to the extracellular matrix and may serve as a structural component in basement membranes or in anchoring structures on scaffolds of collagen VII or fibrillin. This gene has been linked to type 1A diabetes and is a candidate serological marker for colon cancer.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+24,761
+Likely benign
+2,106
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWA2 gene."
+27,https://3billion.io/gene/VWA1/,VWA1,"VWA1
+Synonyms
+HMNMYO, WARP
+External resources
+NCBI64856
+OMIM611901
+EnsemblENSG00000179403
+HGNCHGNC:30910
+Summary
+VWA1 belongs to the von Willebrand factor (VWF; MIM 613160) A (VWFA) domain superfamily of extracellular matrix proteins and appears to play a role in cartilage structure and function (Fitzgerald et al., 2002 [PubMed 12062410]).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+18
+Likely pathogenic
+0
+VUS
+1,448
+Likely benign
+1,218
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 18 patients carrying pathogenic or likely pathogenic variants on VWA1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+50%
+Abnormality of head or neck
+38.9%
+Abnormality of the nervous system
+38.9%
+Abnormality of the eye
+33.3%
+Abnormality of the integument
+27.8%
+Growth abnormality
+27.8%
+Abnormality of limbs
+22.2%
+Abnormality of blood and blood-forming tissues
+5.6%
+Abnormality of the breast
+5.6%
+Abnormality of the ear
+5.6%
+Abnormality of the endocrine system
+5.6%
+Abnormality of the respiratory system
+5.6%
+Neoplasm
+5.6%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+28,https://3billion.io/gene/VWA3B/,VWA3B,"VWA3B
+Synonyms
+SCAR22
+External resources
+NCBI200403
+OMIM614884
+EnsemblENSG00000168658
+HGNCHGNC:28385
+Summary
+This gene encodes an intracellular protein that contains a von Willebrand factor type A domain. Intracellular proteins with VWA domains are thought to function in transcription, DNA repair, ribosomal and membrane transport and the proteasome. Mutations in this gene are associated with Spinocerebellar ataxia, autosomal recessive 22. Alternatively spliced transcript variants have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+68
+Likely pathogenic
+323
+VUS
+7,649
+Likely benign
+9,619
+Benign
+181","Patient phenotypes
+Proportions of phenotypes among 386 patients carrying pathogenic or likely pathogenic variants on VWA3B gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+29.8%
+Abnormality of the cardiovascular system
+27.5%
+Abnormality of the musculoskeletal system
+16.3%
+Abnormality of head or neck
+13.2%
+Abnormality of the ear
+13%
+Abnormality of the eye
+11.9%
+Abnormality of the genitourinary system
+9.8%
+Growth abnormality
+6.5%
+Abnormality of blood and blood-forming tissues
+5.4%
+Abnormality of the immune system
+4.4%
+Abnormality of the digestive system
+3.9%
+Abnormality of limbs
+3.6%
+Abnormality of prenatal development or birth
+2.6%
+Abnormality of the integument
+2.6%
+Abnormality of the respiratory system
+1.6%
+Abnormality of the endocrine system
+1.3%
+Neoplasm
+1%
+Constitutional symptom
+0.5%
+Abnormal cellular phenotype
+0.3%
+Abnormality of the breast
+0.3%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%"
+29,https://3billion.io/gene/VWA3A/,VWA3A,"VWA3A
+Synonyms
+-
+External resources
+NCBI146177
+EnsemblENSG00000175267
+HGNCHGNC:27088
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+21,134
+Likely benign
+5,300
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWA3A gene."
+30,https://3billion.io/gene/VARS2/,VARS2,"VARS2
+Synonyms
+COXPD20, VALRS, VARS2L, VARSL
+External resources
+NCBI57176
+OMIM612802
+EnsemblENSG00000137411
+HGNCHGNC:21642
+Summary
+This gene encodes a mitochondrial aminoacyl-tRNA synthetase, which catalyzes the attachment of valine to tRNA(Val) for mitochondrial translation. Mutations in this gene cause combined oxidative phosphorylation deficiency-20, and are also associated with early-onset mitochondrial encephalopathies. Alternative splicing of this gene results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+38
+Likely pathogenic
+9
+VUS
+6,966
+Likely benign
+5,374
+Benign
+269","Patient phenotypes
+Proportions of phenotypes among 46 patients carrying pathogenic or likely pathogenic variants on VARS2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+37%
+Abnormality of the musculoskeletal system
+32.6%
+Abnormality of the eye
+30.4%
+Abnormality of head or neck
+17.4%
+Growth abnormality
+17.4%
+Abnormality of limbs
+15.2%
+Abnormality of the cardiovascular system
+15.2%
+Abnormality of the ear
+8.7%
+Abnormality of the integument
+8.7%
+Abnormality of the immune system
+6.5%
+Abnormality of blood and blood-forming tissues
+4.3%
+Abnormality of the endocrine system
+4.3%
+Abnormality of the genitourinary system
+4.3%
+Abnormality of prenatal development or birth
+2.2%
+Abnormality of the digestive system
+2.2%
+Abnormality of the respiratory system
+2.2%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+31,https://3billion.io/gene/VHL/,VHL,"VHL
+Synonyms
+HRCA1, RCA1, VHL1, pVHL
+External resources
+NCBI7428
+OMIM608537
+EnsemblENSG00000134086
+HGNCHGNC:12687
+Summary
+Von Hippel-Lindau syndrome (VHL) is a dominantly inherited familial cancer syndrome predisposing to a variety of malignant and benign tumors. A germline mutation of this gene is the basis of familial inheritance of VHL syndrome. The protein encoded by this gene is a component of the protein complex that includes elongin B, elongin C, and cullin-2, and possesses ubiquitin ligase E3 activity. This protein is involved in the ubiquitination and degradation of hypoxia-inducible-factor (HIF), which is a transcription factor that plays a central role in the regulation of gene expression by oxygen. RNA polymerase II subunit POLR2G/RPB7 is also reported to be a target of this protein. Alternatively spliced transcript variants encoding distinct isoforms have been observed.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+6
+Likely pathogenic
+7
+VUS
+1,062
+Likely benign
+496
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 13 patients carrying pathogenic or likely pathogenic variants on VHL gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+46.2%
+Abnormality of the eye
+30.8%
+Abnormality of the musculoskeletal system
+30.8%
+Abnormality of head or neck
+23.1%
+Growth abnormality
+23.1%
+Abnormality of the cardiovascular system
+15.4%
+Abnormality of the digestive system
+15.4%
+Abnormality of the endocrine system
+15.4%
+Neoplasm
+15.4%
+Abnormality of limbs
+7.7%
+Abnormality of the ear
+7.7%
+Abnormality of the genitourinary system
+7.7%
+Abnormality of the integument
+7.7%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+32,https://3billion.io/gene/VPS29/,VPS29,"VPS29
+Synonyms
+DC15, DC7, PEP11
+External resources
+NCBI51699
+OMIM606932
+EnsemblENSG00000111237
+HGNCHGNC:14340
+Summary
+This gene belongs to a group of vacuolar protein sorting (VPS) genes that, when functionally impaired, disrupt the efficient delivery of vacuolar hydrolases. The protein encoded by this gene is a component of a large multimeric complex, termed the retromer complex, which is involved in retrograde transport of proteins from endosomes to the trans-Golgi network. This VPS protein may be involved in the formation of the inner shell of the retromer coat for retrograde vesicles leaving the prevacuolar compartment. Alternative splice variants encoding different isoforms and representing non-protein coding transcripts have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,590
+Likely benign
+1,256
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS29 gene."
+33,https://3billion.io/gene/VPS50/,VPS50,"VPS50
+Synonyms
+CCDC132, NEDMSC, VPS54L
+External resources
+NCBI55610
+OMIM616465
+EnsemblENSG00000004766
+HGNCHGNC:25956
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+11
+Likely pathogenic
+0
+VUS
+3,998
+Likely benign
+9,689
+Benign
+1,331","Patient phenotypes
+Proportions of phenotypes among 11 patients carrying pathogenic or likely pathogenic variants on VPS50 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the cardiovascular system
+27.3%
+Abnormality of the musculoskeletal system
+27.3%
+Abnormality of the nervous system
+27.3%
+Growth abnormality
+27.3%
+Abnormality of the ear
+18.2%
+Abnormality of head or neck
+9.1%
+Abnormality of limbs
+9.1%
+Abnormality of the digestive system
+9.1%
+Abnormality of the endocrine system
+9.1%
+Abnormality of the eye
+9.1%
+Abnormality of the integument
+9.1%
+Constitutional symptom
+9.1%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Neoplasm
+0%"
+34,https://3billion.io/gene/VNN2/,VNN2,"VNN2
+Synonyms
+FOAP-4, GPI-80
+External resources
+NCBI8875
+OMIM603571
+EnsemblENSG00000112303
+HGNCHGNC:12706
+Summary
+This gene product is a member of the Vanin family of proteins that share extensive sequence similarity with each other, and also with biotinidase. The family includes secreted and membrane-associated proteins, a few of which have been reported to participate in hematopoietic cell trafficking. No biotinidase activity has been demonstrated for any of the vanin proteins, however, they possess pantetheinase activity, which may play a role in oxidative-stress response. The encoded protein is a GPI-anchored cell surface molecule that plays a role in transendothelial migration of neutrophils. This gene lies in close proximity to, and in same transcriptional orientation as two other vanin genes on chromosome 6q23-q24. Alternatively spliced transcript variants encoding different isoforms have been described for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,857
+Likely benign
+281
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VNN2 gene."
+35,https://3billion.io/gene/VNN1/,VNN1,"VNN1
+Synonyms
+HDLCQ8, Tiff66
+External resources
+NCBI8876
+OMIM603570
+EnsemblENSG00000112299
+HGNCHGNC:12705
+Summary
+This gene encodes a member of the vanin family of proteins, which share extensive sequence similarity with each other, and also with biotinidase. The family includes secreted and membrane-associated proteins, a few of which have been reported to participate in hematopoietic cell trafficking. No biotinidase activity has been demonstrated for any of the vanin proteins, however, they possess pantetheinase activity, which may play a role in oxidative-stress response. This protein, like its mouse homolog, is likely a GPI-anchored cell surface molecule. The mouse protein is expressed by the perivascular thymic stromal cells and regulates migration of T-cell progenitors to the thymus. This gene lies in close proximity to, and in the same transcriptional orientation as, two other vanin genes on chromosome 6q23-q24.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,597
+Likely benign
+2,209
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VNN1 gene."
+36,https://3billion.io/gene/VANGL2/,VANGL2,"VANGL2
+Synonyms
+LPP1, LTAP, STB1, STBM, STBM1
+External resources
+NCBI57216
+OMIM600533
+EnsemblENSG00000162738
+HGNCHGNC:15511
+Summary
+The protein encoded by this gene is a membrane protein involved in the regulation of planar cell polarity, especially in the stereociliary bundles of the cochlea. The encoded protein transmits directional signals to individual cells or groups of cells in epithelial sheets. This protein is also involved in the development of the neural plate.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,033
+Likely benign
+413
+Benign
+1,698","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VANGL2 gene."
+37,https://3billion.io/gene/VILL/,VILL,"VILL
+Synonyms
+-
+External resources
+NCBI50853
+OMIM619666
+EnsemblENSG00000136059
+HGNCHGNC:30906
+Summary
+The protein encoded by this gene belongs to the villin/gelsolin family. It contains 6 gelsolin-like repeats and a headpiece domain. It may play a role in actin-bundling.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+12,007
+Likely benign
+2,971
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VILL gene."
+38,https://3billion.io/gene/VWDE/,VWDE,"VWDE
+Synonyms
+-
+External resources
+NCBI221806
+EnsemblENSG00000146530
+HGNCHGNC:21897
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,858
+Likely benign
+2,000
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWDE gene."
+39,https://3billion.io/gene/VAX2/,VAX2,"VAX2
+Synonyms
+DRES93
+External resources
+NCBI25806
+OMIM604295
+EnsemblENSG00000116035
+HGNCHGNC:12661
+Summary
+This gene encodes a homeobox protein and is almost exclusively expressed in the ventral portion of the retina during development. In mouse studies, this gene was found to be required for the correct formation of the optic fissure and other aspects of retinal development.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,322
+Likely benign
+376
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAX2 gene."
+40,https://3billion.io/gene/VAX1/,VAX1,"VAX1
+Synonyms
+MCOPS11
+External resources
+NCBI11023
+OMIM604294
+EnsemblENSG00000148704
+HGNCHGNC:12660
+Summary
+This gene encodes a homeo-domain containing protein from a class of homeobox transcription factors which are conserved in vertebrates. Genes of this family are involved in the regulation of body development and morphogenesis. The most conserved genes, called HOX genes are found in special gene clusters. This gene belongs to the VAX subfamily and lies in the vicinity of the EMX homeobox gene family. Another member of VAX family is located on chromosome 2. The encoded protein may play an important role in the development of anterior ventral forebrain and visual system. Multiple transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,529
+Likely benign
+9,555
+Benign
+35","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAX1 gene."
+41,https://3billion.io/gene/VHLL/,VHLL,"VHLL
+Synonyms
+VHLP, VLP
+External resources
+NCBI391104
+OMIM619650
+EnsemblENSG00000189030
+HGNCHGNC:30666
+Summary
+Von Hippel-Lindau (VHL) tumor suppressor protein is a component of an E3 ubiquitin ligase complex that selectively ubiquitinates the alpha subunit of the hypoxia-inducible factor (HIF) transcription factor for proteasome-mediated degradation. Inactivation of VHL causes VHL disease and sporadic kidney cancer. This gene encodes a VHL homolog that lacks one of two key domains necessary for VHL function. This gene may contribute to the regulation of oxygen homeostasis and neovascularization during placenta development. This gene is intronless, and can also be interpreted as a retrotransposed pseudogene of the VHL locus located on chromosome 3. However, the protein is represented in this RefSeq due to evidence in PMID:14757845 that strongly suggests it is translated. The same publication also indicates that this protein binds HIF alpha but fails to recruit the E3 ubiquitin ligase complex, and it therefore functions as a dominant-negative VHL protein and a protector of HIF alpha.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+996
+Likely benign
+12
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VHLL gene."
+42,https://3billion.io/gene/VMAC/,VMAC,"VMAC
+Synonyms
+-
+External resources
+NCBI400673
+OMIM617204
+EnsemblENSG00000187650
+HGNCHGNC:33803
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,405
+Likely benign
+214
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VMAC gene."
+43,https://3billion.io/gene/VAPB/,VAPB,"VAPB
+Synonyms
+ALS8, VAMP-B, VAP-B
+External resources
+NCBI9217
+OMIM605704
+EnsemblENSG00000124164
+HGNCHGNC:12649
+Summary
+The protein encoded by this gene is a type IV membrane protein found in plasma and intracellular vesicle membranes. The encoded protein is found as a homodimer and as a heterodimer with VAPA. This protein also can interact with VAMP1 and VAMP2 and may be involved in vesicle trafficking.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+778
+Likely benign
+2,276
+Benign
+14","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAPB gene."
+44,https://3billion.io/gene/VAPA/,VAPA,"VAPA
+Synonyms
+VAMP-A, VAP-33, VAP-A, VAP33, hVAP-33
+External resources
+NCBI9218
+OMIM605703
+EnsemblENSG00000101558
+HGNCHGNC:12648
+Summary
+The protein encoded by this gene is a type IV membrane protein. It is present in the plasma membrane and intracellular vesicles. It may also be associated with the cytoskeleton. This protein may function in vesicle trafficking, membrane fusion, protein complex assembly and cell motility. Alternative splicing occurs at this locus and two transcript variants encoding distinct isoforms have been identified.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,568
+Likely benign
+368
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAPA gene."
+45,https://3billion.io/gene/VTCN1/,VTCN1,"VTCN1
+Synonyms
+B7-H4, B7H4, B7S1, B7X, B7h.5, PRO1291, VCTN1
+External resources
+NCBI79679
+OMIM608162
+EnsemblENSG00000134258
+HGNCHGNC:28873
+Summary
+This gene encodes a protein belonging to the B7 costimulatory protein family. Proteins in this family are present on the surface of antigen-presenting cells and interact with ligand bound to receptors on the surface of T cells. Studies have shown that high levels of the encoded protein has been correlated with tumor progression. A pseudogene of this gene is located on chromosome 20. Multiple transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,118
+Likely benign
+0
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VTCN1 gene."
+46,https://3billion.io/gene/VPS9D1/,VPS9D1,"VPS9D1
+Synonyms
+ATP-BL, ATPBL, C16orf7
+External resources
+NCBI9605
+OMIM619292
+EnsemblENSG00000075399
+HGNCHGNC:13526
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+5,476
+Likely benign
+22,874
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS9D1 gene."
+47,https://3billion.io/gene/VCAM1/,VCAM1,"VCAM1
+Synonyms
+CD106, INCAM-100
+External resources
+NCBI7412
+OMIM192225
+EnsemblENSG00000162692
+HGNCHGNC:12663
+Summary
+This gene is a member of the Ig superfamily and encodes a cell surface sialoglycoprotein expressed by cytokine-activated endothelium. This type I membrane protein mediates leukocyte-endothelial cell adhesion and signal transduction, and may play a role in the development of artherosclerosis and rheumatoid arthritis. Three alternatively spliced transcripts encoding different isoforms have been described for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+890
+Likely benign
+1,844
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VCAM1 gene."
+48,https://3billion.io/gene/VAC14/,VAC14,"VAC14
+Synonyms
+ArPIKfyve, TAX1BP2, TRX
+External resources
+NCBI55697
+OMIM604632
+EnsemblENSG00000103043
+HGNCHGNC:25507
+Summary
+This gene encodes a scaffold protein that is a component of the PIKfyve protein kinase complex. This complex is responsible for the synthesis of phosphatidylinositol 3,5-bisphosphate, an important component of cellular membranes, from phosphatidylinositol 3-phosphate. Mice lacking a functional copy of this gene exhibit severe neurodegeneration. Mutations in the human gene have been identified in patients with a childhood onset progressive neurological disorder characterized by impaired movement, dystonia, and striatal abnormalities.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+5
+Likely pathogenic
+0
+VUS
+5,636
+Likely benign
+1,424
+Benign
+39","Patient phenotypes
+Proportions of phenotypes among 5 patients carrying pathogenic or likely pathogenic variants on VAC14 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+60%
+Abnormality of the genitourinary system
+40%
+Abnormality of head or neck
+20%
+Abnormality of limbs
+20%
+Abnormality of the cardiovascular system
+20%
+Abnormality of the ear
+20%
+Abnormality of the endocrine system
+20%
+Abnormality of the eye
+20%
+Abnormality of the immune system
+20%
+Abnormality of the integument
+20%
+Abnormality of the musculoskeletal system
+20%
+Abnormality of the respiratory system
+20%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+49,https://3billion.io/gene/VSIG10L/,VSIG10L,"VSIG10L
+Synonyms
+-
+External resources
+NCBI147645
+OMIM617740
+EnsemblENSG00000186806
+HGNCHGNC:27111
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,671
+Likely benign
+3,717
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIG10L gene."
+50,https://3billion.io/gene/VWC2/,VWC2,"VWC2
+Synonyms
+PSST739, UNQ739
+External resources
+NCBI375567
+OMIM611108
+EnsemblENSG00000188730
+HGNCHGNC:30200
+Summary
+This gene encodes a secreted bone morphogenic protein antagonist. The encoded protein is possibly involved in neural function and development and may have a role in cell adhesion.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+12
+Likely pathogenic
+0
+VUS
+57,710
+Likely benign
+51
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 3 patients carrying pathogenic or likely pathogenic variants on VWC2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+66.7%
+Abnormality of head or neck
+33.3%
+Abnormality of the ear
+33.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+51,https://3billion.io/gene/VOPP1/,VOPP1,"VOPP1
+Synonyms
+ECOP, GASP, WBP1L2
+External resources
+NCBI81552
+OMIM611915
+EnsemblENSG00000154978
+HGNCHGNC:34518
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+9,244
+Likely benign
+1,683
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VOPP1 gene."
+52,https://3billion.io/gene/VSIG10L2/,VSIG10L2,"VSIG10L2
+Synonyms
+-
+External resources
+NCBI338667
+EnsemblENSG00000283703
+HGNCHGNC:27879
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+372
+Likely benign
+0
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIG10L2 gene."
+53,https://3billion.io/gene/VPS37D/,VPS37D,"VPS37D
+Synonyms
+WBSCR24
+External resources
+NCBI155382
+OMIM610039
+EnsemblENSG00000176428
+HGNCHGNC:18287
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,343
+Likely benign
+1,717
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS37D gene."
+54,https://3billion.io/gene/VPS37C/,VPS37C,"VPS37C
+Synonyms
+-
+External resources
+NCBI55048
+OMIM610038
+EnsemblENSG00000167987
+HGNCHGNC:26097
+Summary
+VPS37C is a subunit of ESCRT-I (endosomal sorting complex required for transport I), a complex in the class E vacuolar protein sorting (VPS) pathway required for sorting ubiquitinated transmembrane proteins into internal vesicles of multivesicular bodies (Eastman et al., 2005 [PubMed 15509564]).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,476
+Likely benign
+765
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS37C gene."
+55,https://3billion.io/gene/VPS37B/,VPS37B,"VPS37B
+Synonyms
+-
+External resources
+NCBI79720
+OMIM610037
+EnsemblENSG00000139722
+HGNCHGNC:25754
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,907
+Likely benign
+298
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS37B gene."
+56,https://3billion.io/gene/VPS37A/,VPS37A,"VPS37A
+Synonyms
+HCRP1, PQBP2, SPG53
+External resources
+NCBI137492
+OMIM609927
+EnsemblENSG00000155975
+HGNCHGNC:24928
+Summary
+This gene belongs to the VPS37 family, and encodes a component of the ESCRT-I (endosomal sorting complex required for transport I) protein complex, required for the sorting of ubiquitinated transmembrane proteins into internal vesicles of multivesicular bodies. Expression of this gene is downregulated in hepatocellular carcinoma, and mutations in this gene are associated with autosomal recessive spastic paraplegia-53. A related pseudogene has been identified on chromosome 5. Alternatively spliced transcript variants have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+4,216
+Likely benign
+4,289
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS37A gene."
+57,https://3billion.io/gene/VPS35/,VPS35,"VPS35
+Synonyms
+MEM3, PARK17
+External resources
+NCBI55737
+OMIM601501
+EnsemblENSG00000069329
+HGNCHGNC:13487
+Summary
+This gene belongs to a group of vacuolar protein sorting (VPS) genes. The encoded protein is a component of a large multimeric complex, termed the retromer complex, involved in retrograde transport of proteins from endosomes to the trans-Golgi network. The close structural similarity between the yeast and human proteins that make up this complex suggests a similarity in function. Expression studies in yeast and mammalian cells indicate that this protein interacts directly with VPS35, which serves as the core of the retromer complex.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+852
+Likely benign
+11,649
+Benign
+1,964","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on VPS35 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+100%
+Abnormality of prenatal development or birth
+50%
+Abnormality of the eye
+50%
+Abnormality of the immune system
+50%
+Abnormality of the musculoskeletal system
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+58,https://3billion.io/gene/VPS36/,VPS36,"VPS36
+Synonyms
+C13orf9, CGI-145, EAP45
+External resources
+NCBI51028
+OMIM610903
+EnsemblENSG00000136100
+HGNCHGNC:20312
+Summary
+This gene encodes a protein that is a subunit of the endosomal sorting complex required for transport II (ESCRT-II). This protein complex functions in sorting of ubiquitinated membrane proteins during endocytosis. A similar protein complex in rat is associated with RNA polymerase elongation factor II.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+6,405
+Likely benign
+3,435
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS36 gene."
+59,https://3billion.io/gene/VPS39/,VPS39,"VPS39
+Synonyms
+TLP, VAM6, hVam6p
+External resources
+NCBI23339
+OMIM612188
+EnsemblENSG00000166887
+HGNCHGNC:20593
+Summary
+This gene encodes a protein that may promote clustering and fusion of late endosomes and lysosomes. The protein may also act as an adaptor protein that modulates the transforming growth factor-beta response by coupling the transforming growth factor-beta receptor complex to the Smad pathway. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,103
+Likely benign
+3,339
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS39 gene."
+60,https://3billion.io/gene/VWC2L/,VWC2L,"VWC2L
+Synonyms
+-
+External resources
+NCBI402117
+EnsemblENSG00000174453
+HGNCHGNC:37203
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+656
+Likely benign
+6
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWC2L gene."
+61,https://3billion.io/gene/VIPR2/,VIPR2,"VIPR2
+Synonyms
+C16DUPq36.3, DUP7q36.3, PACAP-R-3, PACAP-R3, VIP-R-2, VPAC2, VPAC2R, VPCAP2R
+External resources
+NCBI7434
+OMIM601970
+EnsemblENSG00000106018
+HGNCHGNC:12695
+Summary
+This gene encodes a receptor for vasoactive intestinal peptide, a small neuropeptide. Vasoactive intestinal peptide is involved in smooth muscle relaxation, exocrine and endocrine secretion, and water and ion flux in lung and intestinal epithelia. Its actions are effected through integral membrane receptors associated with a guanine nucleotide binding protein which activates adenylate cyclase.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+4,803
+Likely benign
+819
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VIPR2 gene."
+62,https://3billion.io/gene/VIPR1/,VIPR1,"VIPR1
+Synonyms
+HVR1, II, PACAP-R-2, PACAP-R2, RDC1, V1RG, VAPC1, VIP-R-1, VIPR, VIRG, VPAC1, VPAC1R, VPCAP1R
+External resources
+NCBI7433
+OMIM192321
+EnsemblENSG00000114812
+HGNCHGNC:12694
+Summary
+This gene encodes a receptor for vasoactive intestinal peptide, a small neuropeptide. Vasoactive intestinal peptide is involved in smooth muscle relaxation, exocrine and endocrine secretion, and water and ion flux in lung and intestinal epithelia. Its actions are effected through integral membrane receptors associated with a guanine nucleotide binding protein which activates adenylate cyclase. Several transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,756
+Likely benign
+3,313
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VIPR1 gene."
+63,https://3billion.io/gene/VPREB3/,VPREB3,"VPREB3
+Synonyms
+8HS20, N27C7-2
+External resources
+NCBI29802
+OMIM605017
+EnsemblENSG00000128218
+HGNCHGNC:12710
+Summary
+The protein encoded by this gene is the human ortholog of the mouse VpreB3 (8HS20) protein, is thought to be involved in B-cell maturation, and may play a role in assembly of the pre-B cell receptor (pre-BCR). While the role of this protein in B-cell development has not yet been elucidated, studies with the chicken ortholog of this protein have found that when overexpressed, this protein localizes to the endoplasmic reticulum. The mouse ortholog of this protein has been shown to associate with membrane mu heavy chains early in the course of pre-B cell receptor biosynthesis. Expression of this gene has been observed in some lymphomas.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,526
+Likely benign
+354
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPREB3 gene."
+64,https://3billion.io/gene/VKORC1/,VKORC1,"VKORC1
+Synonyms
+EDTP308, MST134, MST576, VKCFD2, VKOR
+External resources
+NCBI79001
+OMIM608547
+EnsemblENSG00000167397
+HGNCHGNC:23663
+Summary
+This gene encodes the catalytic subunit of the vitamin K epoxide reductase complex, which is responsible for the reduction of inactive vitamin K 2,3-epoxide to active vitamin K in the endoplasmic reticulum membrane. Vitamin K is a required co-factor for carboxylation of glutamic acid residues by vitamin K-dependent gamma-carboxylase in blood-clotting enzymes. Allelic variation in this gene is associated with vitamin k-dependent clotting factors combined deficiency of 2, and increased resistance or sensitivity to warfarin, an inhibitor of vitamin K epoxide reductase. Pseudogenes of this gene are located on chromosomes 1 and X. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,021
+Likely benign
+181
+Benign
+96","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VKORC1 gene."
+65,https://3billion.io/gene/VENTX/,VENTX,"VENTX
+Synonyms
+HPX42B, NA88A, VENTX2
+External resources
+NCBI27287
+OMIM607158
+EnsemblENSG00000151650
+HGNCHGNC:13639
+Summary
+This gene encodes a member of the Vent family of homeodomain proteins. The encoded protein may function as a transcriptional repressor and be involved in mesodermal patterning and hemopoietic stem cell maintenance. Multiple pseudogenes exist for this gene. A transcribed pseudogene located on chromosome X may lead to antigen production in certain melanomas.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+513
+Likely benign
+1,628
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VENTX gene."
+66,https://3billion.io/gene/VKORC1L1/,VKORC1L1,"VKORC1L1
+Synonyms
+-
+External resources
+NCBI154807
+OMIM608838
+EnsemblENSG00000196715
+HGNCHGNC:21492
+Summary
+This gene encodes an enzyme important in the vitamin K cycle, which is involved in the carboxylation of glutamate residues present in vitamin K-dependent proteins. The encoded enzyme catalyzes the de-epoxidation of vitamin K 2,3-epoxide. Oxidative stress may upregulate expression of this gene and the encoded protein may protect cells and membrane proteins form oxidative damage. This gene and a related gene (Gene ID: 79001) may have arisen by gene duplication of an ancestral gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+16,127
+Likely benign
+55
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VKORC1L1 gene."
+67,https://3billion.io/gene/VEGFD/,VEGFD,"VEGFD
+Synonyms
+FIGF, VEGF-D
+External resources
+NCBI2277
+OMIM300091
+EnsemblENSG00000165197
+HGNCHGNC:3708
+Summary
+The protein encoded by this gene is a member of the platelet-derived growth factor/vascular endothelial growth factor (PDGF/VEGF) family and is active in angiogenesis, lymphangiogenesis, and endothelial cell growth. This secreted protein undergoes a complex proteolytic maturation, generating multiple processed forms which bind and activate VEGFR-2 and VEGFR-3 receptors. This protein is structurally and functionally similar to vascular endothelial growth factor C. Read-through transcription has been observed between this locus and the upstream PIR (GeneID 8544) locus.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,198
+Likely benign
+6,999
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VEGFD gene."
+68,https://3billion.io/gene/VEGFA/,VEGFA,"VEGFA
+Synonyms
+MVCD1, VEGF, VPF
+External resources
+NCBI7422
+OMIM192240
+EnsemblENSG00000112715
+HGNCHGNC:12680
+Summary
+This gene is a member of the PDGF/VEGF growth factor family. It encodes a heparin-binding protein, which exists as a disulfide-linked homodimer. This growth factor induces proliferation and migration of vascular endothelial cells, and is essential for both physiological and pathological angiogenesis. Disruption of this gene in mice resulted in abnormal embryonic blood vessel formation. This gene is upregulated in many known tumors and its expression is correlated with tumor stage and progression. Elevated levels of this protein are found in patients with POEMS syndrome, also known as Crow-Fukase syndrome. Allelic variants of this gene have been associated with microvascular complications of diabetes 1 (MVCD1) and atherosclerosis. Alternatively spliced transcript variants encoding different isoforms have been described. There is also evidence for alternative translation initiation from upstream non-AUG (CUG) codons resulting in additional isoforms. A recent study showed that a C-terminally extended isoform is produced by use of an alternative in-frame translation termination codon via a stop codon readthrough mechanism, and that this isoform is antiangiogenic. Expression of some isoforms derived from the AUG start codon is regulated by a small upstream open reading frame, which is located within an internal ribosome entry site. The levels of VEGF are increased during infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), thus promoting inflammation by facilitating recruitment of inflammatory cells, and by increasing the level of angiopoietin II (Ang II), one of two products of the SARS-CoV-2 binding target, angiotensin-converting enzyme 2 (ACE2). In turn, Ang II facilitates the elevation of VEGF, thus forming a vicious cycle in the release of inflammatory cytokines.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+12
+Likely pathogenic
+0
+VUS
+776
+Likely benign
+4,932
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 12 patients carrying pathogenic or likely pathogenic variants on VEGFA gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+58.3%
+Abnormality of head or neck
+41.7%
+Abnormality of the cardiovascular system
+41.7%
+Abnormality of the musculoskeletal system
+33.3%
+Growth abnormality
+25%
+Abnormality of the eye
+16.7%
+Abnormality of the genitourinary system
+16.7%
+Abnormality of the integument
+16.7%
+Abnormality of blood and blood-forming tissues
+8.3%
+Abnormality of limbs
+8.3%
+Abnormality of the digestive system
+8.3%
+Neoplasm
+8.3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+69,https://3billion.io/gene/VEGFC/,VEGFC,"VEGFC
+Synonyms
+Flt4-L, LMPH1D, LMPHM4, VRP
+External resources
+NCBI7424
+OMIM601528
+EnsemblENSG00000150630
+HGNCHGNC:12682
+Summary
+The protein encoded by this gene is a member of the platelet-derived growth factor/vascular endothelial growth factor (PDGF/VEGF) family. The encoded protein promotes angiogenesis and endothelial cell growth, and can also affect the permeability of blood vessels. The proprotein is further cleaved into a fully processed form that can bind and activate VEGFR-2 and VEGFR-3 receptors.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+1
+VUS
+1,781
+Likely benign
+1,567
+Benign
+202","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on VEGFC gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of limbs
+100%
+Abnormality of the musculoskeletal system
+100%
+Abnormality of the nervous system
+100%
+Constitutional symptom
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+70,https://3billion.io/gene/VEGFB/,VEGFB,"VEGFB
+Synonyms
+VEGFL, VRF
+External resources
+NCBI7423
+OMIM601398
+EnsemblENSG00000173511
+HGNCHGNC:12681
+Summary
+This gene encodes a member of the PDGF (platelet-derived growth factor)/VEGF (vascular endothelial growth factor) family. The VEGF family members regulate the formation of blood vessels and are involved in endothelial cell physiology. This member is a ligand for VEGFR-1 (vascular endothelial growth factor receptor 1) and NRP-1 (neuropilin-1). Studies in mice showed that this gene was co-expressed with nuclear-encoded mitochondrial genes and the encoded protein specifically controlled endothelial uptake of fatty acids. Alternatively spliced transcript variants encoding distinct isoforms have been identified.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+17,076
+Likely benign
+4,190
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VEGFB gene."
+71,https://3billion.io/gene/VLDLR/,VLDLR,"VLDLR
+Synonyms
+CAMRQ1, CARMQ1, CHRMQ1, VLDL-R, VLDLRCH
+External resources
+NCBI7436
+OMIM192977
+EnsemblENSG00000147852
+HGNCHGNC:12698
+Summary
+The low density lipoprotein receptor (LDLR) gene family consists of cell surface proteins involved in receptor-mediated endocytosis of specific ligands. This gene encodes a lipoprotein receptor that is a member of the LDLR family and plays important roles in VLDL-triglyceride metabolism and the reelin signaling pathway. Mutations in this gene cause VLDLR-associated cerebellar hypoplasia. Alternative splicing generates multiple transcript variants encoding distinct isoforms for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+5
+Likely pathogenic
+0
+VUS
+4,489
+Likely benign
+1,691
+Benign
+177","Patient phenotypes
+Proportions of phenotypes among 5 patients carrying pathogenic or likely pathogenic variants on VLDLR gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+40%
+Abnormality of the musculoskeletal system
+40%
+Abnormality of limbs
+20%
+Abnormality of the eye
+20%
+Abnormality of the immune system
+20%
+Abnormality of the nervous system
+20%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+72,https://3billion.io/gene/VCL/,VCL,"VCL
+Synonyms
+CMD1W, CMH15, HEL114, MV, MVCL
+External resources
+NCBI7414
+OMIM193065
+EnsemblENSG00000035403
+HGNCHGNC:12665
+Summary
+Vinculin is a cytoskeletal protein associated with cell-cell and cell-matrix junctions, where it is thought to function as one of several interacting proteins involved in anchoring F-actin to the membrane. Defects in VCL are the cause of cardiomyopathy dilated type 1W. Dilated cardiomyopathy is a disorder characterized by ventricular dilation and impaired systolic function, resulting in congestive heart failure and arrhythmia. Multiple alternatively spliced transcript variants have been found for this gene, but the biological validity of some variants has not been determined.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+4
+Likely pathogenic
+0
+VUS
+2,300
+Likely benign
+13,986
+Benign
+621","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on VCL gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+100%
+Abnormality of head or neck
+50%
+Abnormality of the cardiovascular system
+50%
+Abnormality of limbs
+25%
+Abnormality of the eye
+25%
+Abnormality of the integument
+25%
+Abnormality of the musculoskeletal system
+25%
+Growth abnormality
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+73,https://3billion.io/gene/VCP/,VCP,"VCP
+Synonyms
+CDC48, FTDALS6, TERA, p97
+External resources
+NCBI7415
+OMIM601023
+EnsemblENSG00000165280
+HGNCHGNC:12666
+Summary
+This gene encodes a member of the AAA ATPase family of proteins. The encoded protein plays a role in protein degradation, intracellular membrane fusion, DNA repair and replication, regulation of the cell cycle, and activation of the NF-kappa B pathway. This protein forms a homohexameric complex that interacts with a variety of cofactors and extracts ubiquitinated proteins from lipid membranes or protein complexes. Mutations in this gene cause IBMPFD (inclusion body myopathy with paget disease of bone and frontotemporal dementia), ALS (amyotrophic lateral sclerosis) and Charcot-Marie-Tooth disease in human patients.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+8
+Likely pathogenic
+18
+VUS
+1,354
+Likely benign
+5,927
+Benign
+97","Patient phenotypes
+Proportions of phenotypes among 26 patients carrying pathogenic or likely pathogenic variants on VCP gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+50%
+Abnormality of the eye
+34.6%
+Abnormality of the musculoskeletal system
+30.8%
+Abnormality of head or neck
+23.1%
+Abnormality of the ear
+19.2%
+Abnormality of the integument
+15.4%
+Abnormality of the digestive system
+11.5%
+Abnormality of limbs
+7.7%
+Abnormality of the cardiovascular system
+7.7%
+Abnormality of the genitourinary system
+7.7%
+Abnormality of the respiratory system
+7.7%
+Growth abnormality
+7.7%
+Neoplasm
+7.7%
+Abnormality of prenatal development or birth
+3.8%
+Abnormality of the breast
+3.8%
+Abnormality of the endocrine system
+3.8%
+Abnormality of the immune system
+3.8%
+Constitutional symptom
+3.8%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%"
+74,https://3billion.io/gene/VCX/,VCX,"VCX
+Synonyms
+VCX-10r, VCX-B1, VCX1, VCX10R, VCXB1
+External resources
+NCBI26609
+OMIM300229
+EnsemblENSG00000182583
+HGNCHGNC:12667
+Summary
+This gene belongs to the VCX/Y gene family, which has multiple members on both X and Y chromosomes, and all are expressed exclusively in male germ cells. The X-linked members are clustered on chromosome Xp22 and Y-linked members are two identical copies of the gene within a palindromic region on Yq11. The family members share a high degree of sequence identity, with the exception that a 30-bp unit is tandemly repeated in X-linked members but occurs only once in Y-linked members. The VCX gene cluster is polymorphic in terms of copy number; different individuals may have a different number of VCX genes. VCX/Y genes encode small and highly charged proteins of unknown function. The presence of a putative bipartite nuclear localization signal suggests that VCX/Y members are nuclear proteins. This gene contains 10 repeats of the 30-bp unit.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+1
+VUS
+51,897
+Likely benign
+14,326
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on VCX gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the cardiovascular system
+100%
+Abnormality of the digestive system
+100%
+Abnormality of the genitourinary system
+100%
+Abnormality of the nervous system
+100%
+Abnormality of the respiratory system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+75,https://3billion.io/gene/VSX1/,VSX1,"VSX1
+Synonyms
+CAASDS, KTCN, KTCN1, PPCD, PPCD1, PPD, RINX
+External resources
+NCBI30813
+OMIM605020
+EnsemblENSG00000100987
+HGNCHGNC:12723
+Summary
+The protein encoded by this gene contains a paired-like homeodomain and binds to the core of the locus control region of the red/green visual pigment gene cluster. The encoded protein may regulate expression of the cone opsin genes early in development. Mutations in this gene can cause posterior polymorphous corneal dystrophy and keratoconus. Alternatively spliced transcript variants encoding different isoforms have been described.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+10
+Likely pathogenic
+2
+VUS
+677
+Likely benign
+2,330
+Benign
+176","Patient phenotypes
+Proportions of phenotypes among 12 patients carrying pathogenic or likely pathogenic variants on VSX1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+25%
+Abnormality of the nervous system
+25%
+Abnormality of blood and blood-forming tissues
+16.7%
+Abnormality of the genitourinary system
+16.7%
+Abnormality of the musculoskeletal system
+16.7%
+Growth abnormality
+16.7%
+Abnormality of head or neck
+8.3%
+Abnormality of limbs
+8.3%
+Abnormality of the cardiovascular system
+8.3%
+Abnormality of the digestive system
+8.3%
+Abnormality of the ear
+8.3%
+Abnormality of the immune system
+8.3%
+Abnormality of the integument
+8.3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+76,https://3billion.io/gene/VIL1/,VIL1,"VIL1
+Synonyms
+D2S1471, VIL
+External resources
+NCBI7429
+OMIM193040
+EnsemblENSG00000127831
+HGNCHGNC:12690
+Summary
+This gene encodes a member of a family of calcium-regulated actin-binding proteins. This protein represents a dominant part of the brush border cytoskeleton which functions in the capping, severing, and bundling of actin filaments. Two mRNAs of 2.7 kb and 3.5 kb have been observed; they result from utilization of alternate poly-adenylation signals present in the terminal exon.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+9,319
+Likely benign
+1,665
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VIL1 gene."
+77,https://3billion.io/gene/VPS26A/,VPS26A,"VPS26A
+Synonyms
+HB58, Hbeta58, PEP8A, VPS26
+External resources
+NCBI9559
+OMIM605506
+EnsemblENSG00000122958
+HGNCHGNC:12711
+Summary
+This gene belongs to a group of vacuolar protein sorting (VPS) genes. The encoded protein is a component of a large multimeric complex, termed the retromer complex, involved in retrograde transport of proteins from endosomes to the trans-Golgi network. The close structural similarity between the yeast and human proteins that make up this complex suggests a similarity in function. Expression studies in yeast and mammalian cells indicate that this protein interacts directly with VPS35, which serves as the core of the retromer complex. Alternative splicing results in multiple transcript variants encoding different isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,593
+Likely benign
+130
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS26A gene."
+78,https://3billion.io/gene/VPS26B/,VPS26B,"VPS26B
+Synonyms
+Pep8b
+External resources
+NCBI112936
+OMIM610027
+EnsemblENSG00000151502
+HGNCHGNC:28119
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+12,126
+Likely benign
+1,232
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on VPS26B gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+100%
+Abnormality of the nervous system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+79,https://3billion.io/gene/VPS8/,VPS8,"VPS8
+Synonyms
+KIAA0804
+External resources
+NCBI23355
+OMIM618366
+EnsemblENSG00000156931
+HGNCHGNC:29122
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+18,806
+Likely benign
+4,807
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS8 gene."
+80,https://3billion.io/gene/VAMP1/,VAMP1,"VAMP1
+Synonyms
+CMS25, SPAX1, SYB1, VAMP-1
+External resources
+NCBI6843
+OMIM185880
+EnsemblENSG00000139190
+HGNCHGNC:12642
+Summary
+Synapotobrevins, syntaxins, and the synaptosomal-associated protein SNAP25 are the main components of a protein complex involved in the docking and/or fusion of synaptic vesicles with the presynaptic membrane. The protein encoded by this gene is a member of the vesicle-associated membrane protein (VAMP)/synaptobrevin family. Mutations in this gene are associated with autosomal dominant spastic ataxia 1. Multiple alternative splice variants have been described, but the full-length nature of some variants has not been defined.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+3,732
+Likely benign
+119
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on VAMP1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+100%
+Abnormality of the cardiovascular system
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+81,https://3billion.io/gene/VAMP3/,VAMP3,"VAMP3
+Synonyms
+CEB
+External resources
+NCBI9341
+OMIM603657
+EnsemblENSG00000049245
+HGNCHGNC:12644
+Summary
+Synaptobrevins/VAMPs, syntaxins, and the 25-kD synaptosomal-associated protein are the main components of a protein complex involved in the docking and/or fusion of synaptic vesicles with the presynaptic membrane. This gene is a member of the vesicle-associated membrane protein (VAMP)/synaptobrevin family. Because of its high homology to other known VAMPs, its broad tissue distribution, and its subcellular localization, the protein encoded by this gene was shown to be the human equivalent of the rodent cellubrevin. In platelets the protein resides on a compartment that is not mobilized to the plasma membrane on calcium or thrombin stimulation.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,833
+Likely benign
+255
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAMP3 gene."
+82,https://3billion.io/gene/VAMP2/,VAMP2,"VAMP2
+Synonyms
+NEDHAHM, SYB2, VAMP-2
+External resources
+NCBI6844
+OMIM185881
+EnsemblENSG00000220205
+HGNCHGNC:12643
+Summary
+The protein encoded by this gene is a member of the vesicle-associated membrane protein (VAMP)/synaptobrevin family. Synaptobrevins/VAMPs, syntaxins, and the 25-kD synaptosomal-associated protein SNAP25 are the main components of a protein complex involved in the docking and/or fusion of synaptic vesicles with the presynaptic membrane. This gene is thought to participate in neurotransmitter release at a step between docking and fusion. The protein forms a stable complex with syntaxin, synaptosomal-associated protein, 25 kD, and synaptotagmin. It also forms a distinct complex with synaptophysin. It is a likely candidate gene for familial infantile myasthenia (FIMG) because of its map location and because it encodes a synaptic vesicle protein of the type that has been implicated in the pathogenesis of FIMG.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+2,531
+Likely benign
+374
+Benign
+559","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on VAMP2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+100%
+Growth abnormality
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+83,https://3billion.io/gene/VAMP5/,VAMP5,"VAMP5
+Synonyms
+-
+External resources
+NCBI10791
+OMIM607029
+EnsemblENSG00000168899
+HGNCHGNC:12646
+Summary
+Synaptobrevins/VAMPs, syntaxins, and the 25-kD synaptosomal-associated protein are the main components of a protein complex involved in the docking and/or fusion of vesicles and cell membranes. The VAMP5 gene is a member of the vesicle-associated membrane protein (VAMP)/synaptobrevin family and the SNARE superfamily. This VAMP family member may participate in vesicle trafficking events that are associated with myogenesis.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,397
+Likely benign
+214
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAMP5 gene."
+84,https://3billion.io/gene/VAMP4/,VAMP4,"VAMP4
+Synonyms
+VAMP-4, VAMP24
+External resources
+NCBI8674
+OMIM606909
+EnsemblENSG00000117533
+HGNCHGNC:12645
+Summary
+Synaptobrevins/VAMPs, syntaxins, and the 25-kD synaptosomal-associated protein SNAP25 are the main components of a protein complex involved in the docking and/or fusion of synaptic vesicles with the presynaptic membrane. The protein encoded by this gene is a member of the vesicle-associated membrane protein (VAMP)/synaptobrevin family. This protein may play a role in trans-Golgi network-to-endosome transport.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,001
+Likely benign
+107
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAMP4 gene."
+85,https://3billion.io/gene/VAMP7/,VAMP7,"VAMP7
+Synonyms
+SYBL1, TI-VAMP, TIVAMP, VAMP-7
+External resources
+NCBI6845
+OMIM300053
+EnsemblENSG00000124333
+HGNCHGNC:11486
+Summary
+This gene encodes a transmembrane protein that is a member of the soluble N-ethylmaleimide-sensitive factor attachment protein receptor (SNARE) family. The encoded protein localizes to late endosomes and lysosomes and is involved in the fusion of transport vesicles to their target membranes. Alternate splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+389
+Likely benign
+135
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAMP7 gene."
+86,https://3billion.io/gene/VAMP8/,VAMP8,"VAMP8
+Synonyms
+EDB, VAMP-8
+External resources
+NCBI8673
+OMIM603177
+EnsemblENSG00000118640
+HGNCHGNC:12647
+Summary
+This gene encodes an integral membrane protein that belongs to the synaptobrevin/vesicle-associated membrane protein subfamily of soluble N-ethylmaleimide-sensitive factor attachment protein receptors (SNAREs). The encoded protein is involved in the fusion of synaptic vesicles with the presynaptic membrane.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,856
+Likely benign
+804
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAMP8 gene."
+87,https://3billion.io/gene/VRK1/,VRK1,"VRK1
+Synonyms
+PCH1, PCH1A
+External resources
+NCBI7443
+OMIM602168
+EnsemblENSG00000100749
+HGNCHGNC:12718
+Summary
+This gene encodes a member of the vaccinia-related kinase (VRK) family of serine/threonine protein kinases. This gene is widely expressed in human tissues and has increased expression in actively dividing cells, such as those in testis, thymus, fetal liver, and carcinomas. Its protein localizes to the nucleus and has been shown to promote the stability and nuclear accumulation of a transcriptionally active p53 molecule and, in vitro, to phosphorylate Thr18 of p53 and reduce p53 ubiquitination. This gene, therefore, may regulate cell proliferation. This protein also phosphorylates histone, casein, and the transcription factors ATF2 (activating transcription factor 2) and c-JUN.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+10
+Likely pathogenic
+0
+VUS
+1,349
+Likely benign
+162
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 10 patients carrying pathogenic or likely pathogenic variants on VRK1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+40%
+Abnormality of the musculoskeletal system
+20%
+Neoplasm
+20%
+Abnormality of blood and blood-forming tissues
+10%
+Abnormality of the cardiovascular system
+10%
+Abnormality of the digestive system
+10%
+Abnormality of the ear
+10%
+Abnormality of the endocrine system
+10%
+Abnormality of the eye
+10%
+Abnormality of the immune system
+10%
+Abnormality of the integument
+10%
+Abnormal cellular phenotype
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%"
+88,https://3billion.io/gene/VRK3/,VRK3,"VRK3
+Synonyms
+-
+External resources
+NCBI51231
+EnsemblENSG00000105053
+HGNCHGNC:18996
+Summary
+This gene encodes a member of the vaccinia-related kinase (VRK) family of serine/threonine protein kinases. In both human and mouse, this gene has substitutions at several residues within the ATP binding motifs that in other kinases have been shown to be required for catalysis. In vitro assays indicate the protein lacks phosphorylation activity. The protein, however, likely retains its substrate binding capability. This gene is widely expressed in human tissues and its protein localizes to the nucleus. Alternative splicing results in multiple transcripts encoding different isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+11,871
+Likely benign
+1,102
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VRK3 gene."
+89,https://3billion.io/gene/VRK2/,VRK2,"VRK2
+Synonyms
+-
+External resources
+NCBI7444
+OMIM602169
+EnsemblENSG00000028116
+HGNCHGNC:12719
+Summary
+This gene encodes a member of the vaccinia-related kinase (VRK) family of serine/threonine protein kinases. The encoded protein acts as an effector of signaling pathways that regulate apoptosis and tumor cell growth. Variants in this gene have been associated with schizophrenia. Alternative splicing results in multiple transcript variants that differ in their subcellular localization and biological activity.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+19
+Likely pathogenic
+2
+VUS
+3,044
+Likely benign
+1,701
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 21 patients carrying pathogenic or likely pathogenic variants on VRK2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the genitourinary system
+28.6%
+Abnormality of head or neck
+23.8%
+Abnormality of the eye
+19%
+Abnormality of the musculoskeletal system
+19%
+Abnormality of the nervous system
+19%
+Abnormality of the digestive system
+14.3%
+Abnormality of the cardiovascular system
+9.5%
+Abnormality of blood and blood-forming tissues
+4.8%
+Abnormality of limbs
+4.8%
+Abnormality of prenatal development or birth
+4.8%
+Abnormality of the ear
+4.8%
+Abnormality of the integument
+4.8%
+Growth abnormality
+4.8%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+90,https://3billion.io/gene/VEZF1/,VEZF1,"VEZF1
+Synonyms
+DB1, ZNF161
+External resources
+NCBI7716
+OMIM606747
+EnsemblENSG00000136451
+HGNCHGNC:12949
+Summary
+Transcriptional regulatory proteins containing tandemly repeated zinc finger domains are thought to be involved in both normal and abnormal cellular proliferation and differentiation. ZNF161 is a C2H2-type zinc finger protein (Koyano-Nakagawa et al., 1994 [PubMed 8035792]). See MIM 603971 for general information on zinc finger proteins.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+8
+Likely pathogenic
+371
+VUS
+940
+Likely benign
+431
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 190 patients carrying pathogenic or likely pathogenic variants on VEZF1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+44.7%
+Abnormality of the musculoskeletal system
+35.3%
+Abnormality of head or neck
+22.6%
+Abnormality of the eye
+19.5%
+Abnormality of limbs
+16.3%
+Abnormality of the integument
+14.7%
+Abnormality of the ear
+11.6%
+Growth abnormality
+10%
+Abnormality of the genitourinary system
+9.5%
+Abnormality of the digestive system
+7.9%
+Abnormality of the cardiovascular system
+6.8%
+Abnormality of the respiratory system
+6.8%
+Abnormality of the immune system
+6.3%
+Abnormality of blood and blood-forming tissues
+4.2%
+Neoplasm
+2.1%
+Abnormality of prenatal development or birth
+1.6%
+Constitutional symptom
+1.6%
+Abnormality of the endocrine system
+1.1%
+Abnormal cellular phenotype
+0.5%
+Abnormality of the breast
+0.5%
+Abnormality of the voice
+0.5%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%"
+91,https://3billion.io/gene/VPREB1/,VPREB1,"VPREB1
+Synonyms
+CD179a, IGI, IGVPB, VPREB
+External resources
+NCBI7441
+OMIM605141
+EnsemblENSG00000169575
+HGNCHGNC:12709
+Summary
+The protein encoded by this gene belongs to the immunoglobulin superfamily and is expressed selectively at the early stages of B cell development, namely, in proB and early preB cells. This gene encodes the iota polypeptide chain that is associated with the Ig-mu chain to form a molecular complex which is expressed on the surface of pre-B cells. The complex is thought to regulate Ig gene rearrangements in the early steps of B-cell differentiation. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,842
+Likely benign
+144
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPREB1 gene."
+92,https://3billion.io/gene/VSTM2L/,VSTM2L,"VSTM2L
+Synonyms
+C20orf102, dJ1118M15.2
+External resources
+NCBI128434
+OMIM616537
+EnsemblENSG00000132821
+HGNCHGNC:16096
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,019
+Likely benign
+2,000
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSTM2L gene."
+93,https://3billion.io/gene/VSTM2A/,VSTM2A,"VSTM2A
+Synonyms
+VSTM2
+External resources
+NCBI222008
+EnsemblENSG00000170419
+HGNCHGNC:28499
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,060
+Likely benign
+511
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSTM2A gene."
+94,https://3billion.io/gene/VSTM2B/,VSTM2B,"VSTM2B
+Synonyms
+-
+External resources
+NCBI342865
+EnsemblENSG00000187135
+HGNCHGNC:33595
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+4,891
+Likely benign
+53
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSTM2B gene."
+95,https://3billion.io/gene/VDR/,VDR,"VDR
+Synonyms
+NR1I1, PPP1R163
+External resources
+NCBI7421
+OMIM601769
+EnsemblENSG00000111424
+HGNCHGNC:12679
+Summary
+This gene encodes vitamin D3 receptor, which is a member of the nuclear hormone receptor superfamily of ligand-inducible transcription factors. This receptor also functions as a receptor for the secondary bile acid, lithocholic acid. Downstream targets of vitamin D3 receptor are principally involved in mineral metabolism, though this receptor regulates a variety of other metabolic pathways, such as those involved in immune response and cancer. Mutations in this gene are associated with type II vitamin D-resistant rickets. A single nucleotide polymorphism in the initiation codon results in an alternate translation start site three codons downstream. Alternatively spliced transcript variants encoding different isoforms have been described for this gene. A recent study provided evidence for translational readthrough in this gene, and expression of an additional C-terminally extended isoform via the use of an alternative in-frame translation termination codon.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+13
+Likely pathogenic
+0
+VUS
+3,571
+Likely benign
+5,002
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 13 patients carrying pathogenic or likely pathogenic variants on VDR gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+38.5%
+Abnormality of the eye
+23.1%
+Abnormality of the immune system
+15.4%
+Abnormality of blood and blood-forming tissues
+7.7%
+Abnormality of head or neck
+7.7%
+Abnormality of the cardiovascular system
+7.7%
+Abnormality of the integument
+7.7%
+Abnormality of the musculoskeletal system
+7.7%
+Growth abnormality
+7.7%
+Neoplasm
+7.7%
+Abnormal cellular phenotype
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+96,https://3billion.io/gene/VPS18/,VPS18,"VPS18
+Synonyms
+PEP3
+External resources
+NCBI57617
+OMIM608551
+EnsemblENSG00000104142
+HGNCHGNC:15972
+Summary
+Vesicle mediated protein sorting plays an important role in segregation of intracellular molecules into distinct organelles. Genetic studies in yeast have identified more than 40 vacuolar protein sorting (VPS) genes involved in vesicle transport to vacuoles. This gene encodes the human homolog of yeast class C Vps18 protein. The mammalian class C Vps proteins are predominantly associated with late endosomes/lysosomes, and like their yeast counterparts, may mediate vesicle trafficking steps in the endosome/lysosome pathway.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,446
+Likely benign
+1,507
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS18 gene."
+97,https://3billion.io/gene/VPS16/,VPS16,"VPS16
+Synonyms
+DYT30, hVPS16
+External resources
+NCBI64601
+OMIM608550
+EnsemblENSG00000215305
+HGNCHGNC:14584
+Summary
+Vesicle mediated protein sorting plays an important role in segregation of intracellular molecules into distinct organelles. Genetic studies in yeast have identified more than 40 vacuolar protein sorting (VPS) genes involved in vesicle transport to vacuoles. This gene encodes the human homolog of yeast class C Vps16 protein. The mammalian class C Vps proteins are predominantly associated with late endosomes/lysosomes, and like their yeast counterparts, may mediate vesicle trafficking steps in the endosome/lysosome pathway. Two transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+7
+Likely pathogenic
+0
+VUS
+12,630
+Likely benign
+4,279
+Benign
+406","Patient phenotypes
+Proportions of phenotypes among 7 patients carrying pathogenic or likely pathogenic variants on VPS16 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+57.1%
+Growth abnormality
+57.1%
+Abnormality of limbs
+42.9%
+Abnormality of the nervous system
+42.9%
+Abnormality of the immune system
+28.6%
+Abnormality of blood and blood-forming tissues
+14.3%
+Abnormality of head or neck
+14.3%
+Abnormality of the digestive system
+14.3%
+Abnormality of the ear
+14.3%
+Abnormality of the endocrine system
+14.3%
+Abnormality of the eye
+14.3%
+Abnormality of the genitourinary system
+14.3%
+Abnormality of the respiratory system
+14.3%
+Neoplasm
+14.3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the integument
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+98,https://3billion.io/gene/VPS11/,VPS11,"VPS11
+Synonyms
+END1, HLD12, HLD12; DYT32, PEP5, RNF108, hVPS11
+External resources
+NCBI55823
+OMIM608549
+EnsemblENSG00000160695
+HGNCHGNC:14583
+Summary
+Vesicle mediated protein sorting plays an important role in segregation of intracellular molecules into distinct organelles. Genetic studies in yeast have identified more than 40 vacuolar protein sorting (VPS) genes involved in vesicle transport to vacuoles. This gene encodes the human homolog of yeast class C Vps11 protein. The mammalian class C Vps proteins are predominantly associated with late endosomes/lysosomes, and like their yeast counterparts, may mediate vesicle trafficking steps in the endosome/lysosome pathway. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+26
+Likely pathogenic
+10
+VUS
+17,367
+Likely benign
+1,377
+Benign
+30","Patient phenotypes
+Proportions of phenotypes among 29 patients carrying pathogenic or likely pathogenic variants on VPS11 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+55.2%
+Abnormality of the musculoskeletal system
+31%
+Abnormality of head or neck
+20.7%
+Abnormality of limbs
+20.7%
+Abnormality of the cardiovascular system
+10.3%
+Abnormality of the eye
+10.3%
+Abnormality of the genitourinary system
+10.3%
+Abnormality of the immune system
+10.3%
+Abnormality of the integument
+10.3%
+Growth abnormality
+10.3%
+Abnormality of blood and blood-forming tissues
+3.4%
+Abnormality of prenatal development or birth
+3.4%
+Abnormality of the digestive system
+3.4%
+Abnormality of the ear
+3.4%
+Abnormality of the endocrine system
+3.4%
+Constitutional symptom
+3.4%
+Neoplasm
+3.4%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%"
+99,https://3billion.io/gene/VEZT/,VEZT,"VEZT
+Synonyms
+VEZATIN
+External resources
+NCBI55591
+EnsemblENSG00000028203
+HGNCHGNC:18258
+Summary
+This gene encodes a transmembrane protein which has been localized to adherens junctions and shown to bind to myosin VIIA. Examination of expression of this gene in gastric cancer tissues have shown that expression is decreased which appears to be related to hypermethylation of the promoter. Expression of this gene may also be inhibited by binding of a specific microRNA to a target sequence in the 3' UTR of the transcripts. A pseudogene of this gene is located on the X chromosome. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,337
+Likely benign
+1,745
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VEZT gene."
+100,https://3billion.io/gene/VIPAS39/,VIPAS39,"VIPAS39
+Synonyms
+C14orf133, SPE-39, SPE39, VIPAR, VPS16B, hSPE-39
+External resources
+NCBI63894
+OMIM613401
+EnsemblENSG00000151445
+HGNCHGNC:20347
+Summary
+This gene encodes a protein involved in the sorting of lysosomal proteins. Mutations in this gene are associated with ARCS2 (arthrogryposis, renal dysfunction, and cholestasis-2). Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+4
+Likely pathogenic
+0
+VUS
+5,191
+Likely benign
+3,266
+Benign
+1,150","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on VIPAS39 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of blood and blood-forming tissues
+25%
+Abnormality of the nervous system
+25%
+Abnormality of the respiratory system
+25%
+Growth abnormality
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+101,https://3billion.io/gene/VANGL1/,VANGL1,"VANGL1
+Synonyms
+KITENIN, LPP2, STB2, STBM2
+External resources
+NCBI81839
+OMIM610132
+EnsemblENSG00000173218
+HGNCHGNC:15512
+Summary
+This gene encodes a member of the tretraspanin family. The encoded protein may be involved in mediating intestinal trefoil factor induced wound healing in the intestinal mucosa. Mutations in this gene are associated with neural tube defects. Alternate splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+1,216
+Likely benign
+1,047
+Benign
+1,414","Patient phenotypes
+Proportions of phenotypes among 3 patients carrying pathogenic or likely pathogenic variants on VANGL1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the ear
+33.3%
+Abnormality of the nervous system
+33.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+102,https://3billion.io/gene/VCY1B/,VCY1B,"VCY1B
+Synonyms
+BPY1B
+External resources
+NCBI353513
+OMIM400050
+EnsemblENSG00000129862
+HGNCHGNC:31751
+Summary
+The protein encoded by this gene is a member of a family of human VCX/Y genes. This gene family has multiple members on both X and Y chromosomes, and all are expressed exclusively in male germ cells. Members of the VCX/Y family share a high degree of sequence identity, with the exception that a 30-bp unit is tandemly repeated in X-linked members but occurs only once in Y-linked members. VCX/Y genes encode small and highly charged proteins of unknown function. This gene encodes a small, positively charged protein. The presence of a putative bipartite nuclear localization signal suggests that this gene encodes a nuclear protein. The genome has two identical copies of this gene within a palindromic region; this record represents the more telomeric copy.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2
+Likely benign
+0
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VCY1B gene."
+103,https://3billion.io/gene/VWA5B2/,VWA5B2,"VWA5B2
+Synonyms
+-
+External resources
+NCBI90113
+EnsemblENSG00000145198
+HGNCHGNC:25144
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+4,767
+Likely benign
+2,758
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWA5B2 gene."
+104,https://3billion.io/gene/VWA5B1/,VWA5B1,"VWA5B1
+Synonyms
+-
+External resources
+NCBI127731
+EnsemblENSG00000158816
+HGNCHGNC:26538
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,954
+Likely benign
+2,115
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWA5B1 gene."
+105,https://3billion.io/gene/VTA1/,VTA1,"VTA1
+Synonyms
+6orf55, C6orf55, DRG-1, DRG1, HSPC228, LIP5, My012, SBP1
+External resources
+NCBI51534
+OMIM610902
+EnsemblENSG00000009844
+HGNCHGNC:20954
+Summary
+C6ORF55 encodes a protein involved in trafficking of the multivesicular body, an endosomal compartment involved in sorting membrane proteins for degradation in lysosomes (Ward et al., 2005 [PubMed 15644320]).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,283
+Likely benign
+100
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VTA1 gene."
+106,https://3billion.io/gene/VTN/,VTN,"VTN
+Synonyms
+V75, VN, VNT
+External resources
+NCBI7448
+OMIM193190
+EnsemblENSG00000109072
+HGNCHGNC:12724
+Summary
+The protein encoded by this gene functions in part as an adhesive glycoprotein. Differential expression of this protein can promote either cell adhesion or migration as it links cells to the extracellular matrix through a variety of ligands. These ligands include integrins, plasminogen activator inhibitor-1, and urokinase plasminogen activator receptor. This secreted protein can be present in the plasma as a monomer or dimer and forms a multimer in the extracellular matrix of several tissues. This protein also inhibits the membrane-damaging effect of the terminal cytolytic complement pathway and binds to several serpin serine protease inhibitors. This protein can also promote extracellular matrix degradation and thus plays a role in tumorigenesis. It is involved in a variety of other biological processes such as the regulation of the coagulation pathway, wound healing, and tissue remodeling. The heparin-binding domain of this protein give it anti-microbial properties. It is also a lipid binding protein that forms a principal component of high density lipoprotein.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,284
+Likely benign
+675
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VTN gene."
+107,https://3billion.io/gene/VCPKMT/,VCPKMT,"VCPKMT
+Synonyms
+C14orf138, METTL21D, VCP-KMT
+External resources
+NCBI79609
+OMIM615260
+EnsemblENSG00000100483
+HGNCHGNC:20352
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+6,942
+Likely benign
+245
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VCPKMT gene."
+108,https://3billion.io/gene/VCX2/,VCX2,"VCX2
+Synonyms
+VCX-2r, VCX2R, VCXB
+External resources
+NCBI51480
+OMIM300532
+EnsemblENSG00000177504
+HGNCHGNC:18158
+Summary
+This gene belongs to the VCX/Y gene family, which has multiple members on both X and Y chromosomes that are expressed exclusively in male germ cells. The VCX gene cluster is polymorphic in terms of copy number; different individuals may have a different number of VCX genes. This gene contains two copies of a 30 nt tandem repeat. Deletion of a nearby member of this family was implicated in cognitive disability.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+16,418
+Likely benign
+10,190
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VCX2 gene."
+109,https://3billion.io/gene/VPS45/,VPS45,"VPS45
+Synonyms
+H1, H1VPS45, SCN5, VPS45A, VPS45B, VPS54A, VSP45, VSP45A
+External resources
+NCBI11311
+OMIM610035
+EnsemblENSG00000136631
+HGNCHGNC:14579
+Summary
+Vesicle mediated protein sorting plays an important role in segregation of intracellular molecules into distinct organelles. Genetic studies in yeast have identified more than 40 vacuolar protein sorting (VPS) genes involved in vesicle transport to vacuoles. This gene is a member of the Sec1 domain family, and shows a high degree of sequence similarity to mouse, rat and yeast Vps45. The exact function of this gene is not known, but its high expression in peripheral blood mononuclear cells suggests a role in trafficking proteins, including inflammatory mediators. Multiple alternatively spliced transcript variants have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,503
+Likely benign
+1,696
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS45 gene."
+110,https://3billion.io/gene/VPS41/,VPS41,"VPS41
+Synonyms
+HVPS41, HVSP41, SCAR29, hVps41p
+External resources
+NCBI27072
+OMIM605485
+EnsemblENSG00000006715
+HGNCHGNC:12713
+Summary
+Vesicle mediated protein sorting plays an important role in segregation of intracellular molecules into distinct organelles. Genetic studies in yeast have identified more than 40 vacuolar protein sorting (VPS) genes involved in vesicle transport to vacuoles. This gene encodes the human ortholog of yeast Vps41 protein which is also conserved in Drosophila, tomato, and Arabidopsis. Expression studies in yeast and human indicate that this protein may be involved in the formation and fusion of transport vesicles from the Golgi. Several transcript variants encoding different isoforms have been described for this gene, however, the full-length nature of not all is known.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+31
+Likely pathogenic
+0
+VUS
+3,778
+Likely benign
+7,059
+Benign
+407","Patient phenotypes
+Proportions of phenotypes among 31 patients carrying pathogenic or likely pathogenic variants on VPS41 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+58.1%
+Abnormality of the digestive system
+25.8%
+Abnormality of the musculoskeletal system
+25.8%
+Abnormality of the cardiovascular system
+19.4%
+Abnormality of the endocrine system
+19.4%
+Neoplasm
+19.4%
+Abnormality of head or neck
+16.1%
+Abnormality of the ear
+16.1%
+Abnormality of the eye
+16.1%
+Abnormality of the genitourinary system
+9.7%
+Growth abnormality
+9.7%
+Abnormality of the immune system
+6.5%
+Abnormality of the integument
+6.5%
+Abnormality of the respiratory system
+6.5%
+Abnormality of blood and blood-forming tissues
+3.2%
+Abnormality of limbs
+3.2%
+Abnormality of prenatal development or birth
+3.2%
+Constitutional symptom
+3.2%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%"
+111,https://3billion.io/gene/VPS4A/,VPS4A,"VPS4A
+Synonyms
+CIMDAG, SKD1, SKD1A, SKD2, VPS4, VPS4-1
+External resources
+NCBI27183
+OMIM609982
+EnsemblENSG00000132612
+HGNCHGNC:13488
+Summary
+The protein encoded by this gene is a member of the AAA protein family (ATPases associated with diverse cellular activities), and is the homolog of the yeast Vps4 protein. In humans, two paralogs of the yeast protein have been identified. The former share a high degree of aa sequence similarity with each other, and also with yeast Vps4 and mouse Skd1 proteins. The mouse Skd1 (suppressor of K+ transport defect 1) has been shown to be really an yeast Vps4 ortholog. Functional studies indicate that both human paralogs associate with the endosomal compartments, and are involved in intracellular protein trafficking, similar to Vps4 protein in yeast. The gene encoding this paralog has been mapped to chromosome 16; the gene for the other resides on chromosome 18.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,116
+Likely benign
+3,119
+Benign
+4,991","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS4A gene."
+112,https://3billion.io/gene/VPS4B/,VPS4B,"VPS4B
+Synonyms
+MIG1, SKD1, SKD1B, VPS4-2
+External resources
+NCBI9525
+OMIM609983
+EnsemblENSG00000119541
+HGNCHGNC:10895
+Summary
+The protein encoded by this gene is a member of the AAA protein family (ATPases associated with diverse cellular activities), and is the homolog of the yeast Vps4 protein. In humans, two paralogs of the yeast protein have been identified. The former share a high degree of aa sequence similarity with each other, and also with yeast Vps4 and mouse Skd1 proteins. Mouse Skd1 (suppressor of K+ transport defect 1) has been shown to be a yeast Vps4 ortholog. Functional studies indicate that both human paralogs associate with the endosomal compartments, and are involved in intracellular protein trafficking, similar to Vps4 protein in yeast. The gene encoding this paralog has been mapped to chromosome 18; the gene for the other resides on chromosome 16.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+640
+Likely benign
+5,284
+Benign
+1,375","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on VPS4B gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of prenatal development or birth
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+113,https://3billion.io/gene/VEPH1/,VEPH1,"VEPH1
+Synonyms
+MELT, VEPH
+External resources
+NCBI79674
+OMIM609594
+EnsemblENSG00000197415
+HGNCHGNC:25735
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,452
+Likely benign
+4,022
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VEPH1 gene."
+114,https://3billion.io/gene/VIM/,VIM,"VIM
+Synonyms
+-
+External resources
+NCBI7431
+OMIM193060
+EnsemblENSG00000026025
+HGNCHGNC:12692
+Summary
+This gene encodes a type III intermediate filament protein. Intermediate filaments, along with microtubules and actin microfilaments, make up the cytoskeleton. The encoded protein is responsible for maintaining cell shape and integrity of the cytoplasm, and stabilizing cytoskeletal interactions. This protein is involved in neuritogenesis and cholesterol transport and functions as an organizer of a number of other critical proteins involved in cell attachment, migration, and signaling. Bacterial and viral pathogens have been shown to attach to this protein on the host cell surface. Mutations in this gene are associated with congenital cataracts in human patients.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+3,559
+Likely benign
+1,142
+Benign
+1,153","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on VIM gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the cardiovascular system
+50%
+Abnormality of the digestive system
+50%
+Abnormality of the immune system
+50%
+Abnormality of the integument
+50%
+Abnormality of the musculoskeletal system
+50%
+Abnormality of the nervous system
+50%
+Growth abnormality
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+115,https://3billion.io/gene/VIP/,VIP,"VIP
+Synonyms
+PHM27
+External resources
+NCBI7432
+OMIM192320
+EnsemblENSG00000146469
+HGNCHGNC:12693
+Summary
+The protein encoded by this gene belongs to the glucagon family. It stimulates myocardial contractility, causes vasodilation, increases glycogenolysis, lowers arterial blood pressure and relaxes the smooth muscle of trachea, stomach and gall bladder. The protein also acts as an antimicrobial peptide with antibacterial and antifungal activity. Alternative splicing occurs at this locus and two transcript variants encoding distinct isoforms have been identified.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+868
+Likely benign
+765
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VIP gene."
+116,https://3billion.io/gene/VIT/,VIT,"VIT
+Synonyms
+VIT1
+External resources
+NCBI5212
+OMIM617693
+EnsemblENSG00000205221
+HGNCHGNC:12697
+Summary
+This gene encodes an extracellular matrix (ECM) protein. The protein may be associated with cell adhesion and migration. High levels of expression of the protein in specific parts of the brain suggest its likely role in neural development.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,985
+Likely benign
+1,340
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VIT gene."
+117,https://3billion.io/gene/VMA21/,VMA21,"VMA21
+Synonyms
+MEAX, XMEA
+External resources
+NCBI203547
+OMIM300913
+EnsemblENSG00000160131
+HGNCHGNC:22082
+Summary
+This gene encodes a chaperone for assembly of lysosomal vacuolar ATPase.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,951
+Likely benign
+3,678
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VMA21 gene."
+118,https://3billion.io/gene/VBP1/,VBP1,"VBP1
+Synonyms
+HIBBJ46, PFD3, PFDN3, VBP-1
+External resources
+NCBI7411
+OMIM300133
+EnsemblENSG00000155959
+HGNCHGNC:12662
+Summary
+The protein encoded by this gene interacts with the Von Hippel-Lindau protein to form an intracellular complex. The encoded protein functions as a chaperone protein, and may play a role in the transport of the Von Hippel-Lindau protein from the perinuclear granules to the nucleus or cytoplasm. Alternative splicing and the use of alternate transcription start sites results in multiple transcript variants encoding different protein isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,110
+Likely benign
+195
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VBP1 gene."
+119,https://3billion.io/gene/VASH2/,VASH2,"VASH2
+Synonyms
+-
+External resources
+NCBI79805
+OMIM610471
+EnsemblENSG00000143494
+HGNCHGNC:25723
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+5,055
+Likely benign
+3,217
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VASH2 gene."
+120,https://3billion.io/gene/VASH1/,VASH1,"VASH1
+Synonyms
+KIAA1036, TTCP 1
+External resources
+NCBI22846
+OMIM609011
+EnsemblENSG00000071246
+HGNCHGNC:19964
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,893
+Likely benign
+4,723
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VASH1 gene."
+121,https://3billion.io/gene/VAT1/,VAT1,"VAT1
+Synonyms
+VATI
+External resources
+NCBI10493
+OMIM604631
+EnsemblENSG00000108828
+HGNCHGNC:16919
+Summary
+Synaptic vesicles are responsible for regulating the storage and release of neurotransmitters in the nerve terminal. The protein encoded by this gene is an abundant integral membrane protein of cholinergic synaptic vesicles and is thought to be involved in vesicular transport. It belongs to the quinone oxidoreductase subfamily of zinc-containing alcohol dehydrogenase proteins.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+3,818
+Likely benign
+734
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAT1 gene."
+122,https://3billion.io/gene/VPS53/,VPS53,"VPS53
+Synonyms
+HCCS1, PCH2E, hVps53L, pp13624
+External resources
+NCBI55275
+OMIM615850
+EnsemblENSG00000141252
+HGNCHGNC:25608
+Summary
+This gene encodes a protein with sequence similarity to the yeast Vps53p protein. Vps53p is involved in retrograde vesicle trafficking in late Golgi.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+23
+Likely pathogenic
+0
+VUS
+5,515
+Likely benign
+5,427
+Benign
+162","Patient phenotypes
+Proportions of phenotypes among 23 patients carrying pathogenic or likely pathogenic variants on VPS53 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+47.8%
+Abnormality of the musculoskeletal system
+34.8%
+Abnormality of head or neck
+26.1%
+Abnormality of the eye
+26.1%
+Growth abnormality
+26.1%
+Abnormality of the cardiovascular system
+21.7%
+Abnormality of the digestive system
+17.4%
+Abnormality of the immune system
+17.4%
+Abnormality of limbs
+13%
+Abnormality of the ear
+13%
+Abnormality of the integument
+13%
+Abnormality of blood and blood-forming tissues
+8.7%
+Abnormality of the genitourinary system
+8.7%
+Abnormality of the respiratory system
+8.7%
+Abnormality of the endocrine system
+4.3%
+Neoplasm
+4.3%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%"
+123,https://3billion.io/gene/VCX3B/,VCX3B,"VCX3B
+Synonyms
+VCX-C, VCXC
+External resources
+NCBI425054
+OMIM300981
+EnsemblENSG00000205642
+HGNCHGNC:31838
+Summary
+This gene belongs to the VCX/Y gene family, which has multiple members on both X and Y chromosomes, and all are expressed exclusively in male germ cells. The X-linked members are clustered on chromosome Xp22, and the Y-linked members are two identical copies of the gene within a palindromic region on chromosome Yq11. The family members share a high degree of sequence identity, with the exception that a 30-nt unit is tandemly repeated in X-linked members but occurs only once in Y-linked members. The VCX gene cluster is polymorphic in terms of copy number; different individuals may have a different number of VCX genes. This family member, as represented by the reference genome allele, contains 14 copies of the 30-nt repeat unit. VCX/Y genes encode small and highly charged proteins containing putative bipartite nuclear localization signals. Although the exact function of this family member has yet to be determined, a role in mRNA stability regulation can be inferred from the ability of the highly similar family member, VCX-A, to inhibit mRNA decapping. A possible role in the regulation of ribosome assembly during spermatogenesis has also been suggested.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+6
+VUS
+21,537
+Likely benign
+23,944
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 4 patients carrying pathogenic or likely pathogenic variants on VCX3B gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+75%
+Abnormality of the nervous system
+75%
+Abnormality of head or neck
+50%
+Abnormality of limbs
+50%
+Abnormality of the eye
+25%
+Abnormality of the genitourinary system
+25%
+Abnormality of the integument
+25%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+124,https://3billion.io/gene/VCX3A/,VCX3A,"VCX3A
+Synonyms
+VCX-8r, VCX-A, VCX3, VCX8R, VCXA
+External resources
+NCBI51481
+OMIM300533
+EnsemblENSG00000169059
+HGNCHGNC:18159
+Summary
+This gene belongs to the VCX/Y gene family, which has multiple members on both X and Y chromosomes, and all are expressed exclusively in male germ cells. The X-linked members are clustered on chromosome Xp22 and Y-linked members are two identical copies of the gene within a palindromic region on Yq11. The family members share a high degree of sequence identity, with the exception that a 30-bp unit is tandemly repeated in X-linked members but occurs only once in Y-linked members. The VCX gene cluster is polymorphic in terms of copy number; different individuals may have a different number of VCX genes. VCX/Y genes encode small and highly charged proteins of unknown function. The presence of a putative bipartite nuclear localization signal suggests that VCX/Y members are nuclear proteins. This gene contains 8 repeats of the 30-bp unit.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+8
+VUS
+16,046
+Likely benign
+15,264
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 8 patients carrying pathogenic or likely pathogenic variants on VCX3A gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+50%
+Abnormality of the nervous system
+50%
+Abnormality of head or neck
+37.5%
+Abnormality of limbs
+25%
+Growth abnormality
+25%
+Abnormality of the eye
+12.5%
+Abnormality of the genitourinary system
+12.5%
+Abnormality of the integument
+12.5%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+125,https://3billion.io/gene/VSIG10/,VSIG10,"VSIG10
+Synonyms
+-
+External resources
+NCBI54621
+EnsemblENSG00000176834
+HGNCHGNC:26078
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+5,662
+Likely benign
+2,066
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIG10 gene."
+126,https://3billion.io/gene/VPS72/,VPS72,"VPS72
+Synonyms
+CFL1, Swc2, TCFL1, YL-1, YL1
+External resources
+NCBI6944
+OMIM600607
+EnsemblENSG00000163159
+HGNCHGNC:11644
+Summary
+The protein encoded by this gene is a shared subunit of two multi-component complexes, the histone acetyltransferase complex TRRAP/TIP60 as well as the chromatin remodeling SRCAP-containing complex. The TRRAP/TIP60 complex acetylates nucleosomal histones important for transcriptional regulation, double strand DNA break repair and apoptosis. The SRCAP-containing complex catalyzes the exchange of histone H2A with the histone variant Htz1 (H2AFZ) into nucleosomes. This protein may be responsible for binding H2AFZ, which has a role in chromosome segregation. This protein may also have a role in regulating long-term hematopoietic stem cell activity. Alternative splicing results in multiple transcript variants that encode different protein isoforms.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+12,707
+Likely benign
+7
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS72 gene."
+127,https://3billion.io/gene/VWCE/,VWCE,"VWCE
+Synonyms
+URG11, VWC1
+External resources
+NCBI220001
+OMIM611115
+EnsemblENSG00000167992
+HGNCHGNC:26487
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+8
+Likely pathogenic
+4
+VUS
+6,360
+Likely benign
+4,281
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 12 patients carrying pathogenic or likely pathogenic variants on VWCE gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the musculoskeletal system
+41.7%
+Abnormality of the nervous system
+41.7%
+Abnormality of the cardiovascular system
+33.3%
+Abnormality of head or neck
+16.7%
+Abnormality of limbs
+8.3%
+Abnormality of the digestive system
+8.3%
+Abnormality of the ear
+8.3%
+Abnormality of the eye
+8.3%
+Abnormality of the genitourinary system
+8.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+128,https://3billion.io/gene/VCPIP1/,VCPIP1,"VCPIP1
+Synonyms
+DUBA3, VCIP135
+External resources
+NCBI80124
+OMIM611745
+EnsemblENSG00000175073
+HGNCHGNC:30897
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+0
+VUS
+2,007
+Likely benign
+778
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on VCPIP1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the eye
+50%
+Abnormality of the nervous system
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+129,https://3billion.io/gene/VPS33B/,VPS33B,"VPS33B
+Synonyms
+-
+External resources
+NCBI26276
+OMIM608552
+EnsemblENSG00000184056
+HGNCHGNC:12712
+Summary
+Vesicle mediated protein sorting plays an important role in segregation of intracellular molecules into distinct organelles. Genetic studies in yeast have identified more than 40 vacuolar protein sorting (VPS) genes involved in vesicle transport to vacuoles. This gene is a member of the Sec-1 domain family, and encodes the human ortholog of rat Vps33b which is homologous to the yeast class C Vps33 protein. The mammalian class C vacuolar protein sorting proteins are predominantly associated with late endosomes/lysosomes, and like their yeast counterparts, may mediate vesicle trafficking steps in the endosome/lysosome pathway. Mutations in this gene are associated with arthrogryposis-renal dysfunction-cholestasis syndrome. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+41
+Likely pathogenic
+0
+VUS
+6,210
+Likely benign
+1,393
+Benign
+115","Patient phenotypes
+Proportions of phenotypes among 39 patients carrying pathogenic or likely pathogenic variants on VPS33B gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+30.8%
+Abnormality of the cardiovascular system
+28.2%
+Abnormality of the musculoskeletal system
+25.6%
+Abnormality of head or neck
+17.9%
+Abnormality of the genitourinary system
+17.9%
+Growth abnormality
+17.9%
+Abnormality of the ear
+15.4%
+Abnormality of the digestive system
+12.8%
+Abnormality of the integument
+12.8%
+Abnormality of limbs
+10.3%
+Abnormality of the eye
+7.7%
+Abnormality of blood and blood-forming tissues
+5.1%
+Abnormality of the endocrine system
+5.1%
+Abnormality of prenatal development or birth
+2.6%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the breast
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+130,https://3billion.io/gene/VPS33A/,VPS33A,"VPS33A
+Synonyms
+MPSPS
+External resources
+NCBI65082
+OMIM610034
+EnsemblENSG00000139719
+HGNCHGNC:18179
+Summary
+This gene encodes a tethering protein and a core subunit of the homotypic fusion and protein sorting (HOPS) complex. The HOPS complex and a second endosomal tethering complex called the class C core vacuole/endosome tethering (CORVET) complex, perform diverse functions in endocytosis including membrane tethering, RabGTPase interaction, activation and proofreading of synaptic-soluble N-ethylmaleimide-sensitive factor attachment receptor (SNARE) assembly to drive membrane fusion, and endosome-to-cytoskeleton attachment. The HOPS complex controls endosome maturation as well as endosome traffic to the lysosome. This complex is essential for vacuolar fusion and is required for adaptor protein complex 3-dependent transport from the golgi to the vacuole. The encoded protein belongs to the Sec1/Munc18 (SM) family of SNARE-mediated membrane fusion regulators. Naturally occurring mutations in this gene are associated with a novel mucopolysaccharidosis-like disease.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+9,101
+Likely benign
+4,392
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VPS33A gene."
+131,https://3billion.io/gene/VSIG8/,VSIG8,"VSIG8
+Synonyms
+-
+External resources
+NCBI391123
+EnsemblENSG00000243284
+HGNCHGNC:32063
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,791
+Likely benign
+565
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIG8 gene."
+132,https://3billion.io/gene/VSIG4/,VSIG4,"VSIG4
+Synonyms
+CRIg, Z39IG
+External resources
+NCBI11326
+OMIM300353
+EnsemblENSG00000155659
+HGNCHGNC:17032
+Summary
+This gene encodes a v-set and immunoglobulin-domain containing protein that is structurally related to the B7 family of immune regulatory proteins. The encoded protein may be a negative regulator of T-cell responses. This protein is also a receptor for the complement component 3 fragments C3b and iC3b. Alternate splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,279
+Likely benign
+1,469
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIG4 gene."
+133,https://3billion.io/gene/VSIG2/,VSIG2,"VSIG2
+Synonyms
+2210413P10Rik, CTH, CTXL
+External resources
+NCBI23584
+OMIM606011
+EnsemblENSG00000019102
+HGNCHGNC:17149
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+21,575
+Likely benign
+1,638
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIG2 gene."
+134,https://3billion.io/gene/VSIG1/,VSIG1,"VSIG1
+Synonyms
+1700062D20Rik, GPA34, dJ889N15.1
+External resources
+NCBI340547
+OMIM300620
+EnsemblENSG00000101842
+HGNCHGNC:28675
+Summary
+This gene encodes a member of the junctional adhesion molecule (JAM) family. The encoded protein contains multiple glycosylation sites at the N-terminal region, and multiple phosphorylation sites and glutamic acid/proline (EP) repeats at the C-terminal region. The gene is expressed in normal stomach and testis, as well as in gastric, esophageal and ovarian cancers. Alternatively spliced transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+877
+Likely benign
+378
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIG1 gene."
+135,https://3billion.io/gene/VWA5A/,VWA5A,"VWA5A
+Synonyms
+BCSC-1, BCSC1, LOH11CR2A
+External resources
+NCBI4013
+OMIM602929
+EnsemblENSG00000110002
+HGNCHGNC:6658
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+11,094
+Likely benign
+20,210
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VWA5A gene."
+136,https://3billion.io/gene/VASN/,VASN,"VASN
+Synonyms
+SLITL2
+External resources
+NCBI114990
+OMIM608843
+EnsemblENSG00000168140
+HGNCHGNC:18517
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,314
+Likely benign
+549
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VASN gene."
+137,https://3billion.io/gene/VASP/,VASP,"VASP
+Synonyms
+-
+External resources
+NCBI7408
+OMIM601703
+EnsemblENSG00000125753
+HGNCHGNC:12652
+Summary
+Vasodilator-stimulated phosphoprotein (VASP) is a member of the Ena-VASP protein family. Ena-VASP family members contain an EHV1 N-terminal domain that binds proteins containing E/DFPPPPXD/E motifs and targets Ena-VASP proteins to focal adhesions. In the mid-region of the protein, family members have a proline-rich domain that binds SH3 and WW domain-containing proteins. Their C-terminal EVH2 domain mediates tetramerization and binds both G and F actin. VASP is associated with filamentous actin formation and likely plays a widespread role in cell adhesion and motility. VASP may also be involved in the intracellular signaling pathways that regulate integrin-extracellular matrix interactions. VASP is regulated by the cyclic nucleotide-dependent kinases PKA and PKG.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+2
+Likely pathogenic
+7
+VUS
+2,514
+Likely benign
+3,174
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 9 patients carrying pathogenic or likely pathogenic variants on VASP gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Growth abnormality
+33.3%
+Abnormality of head or neck
+22.2%
+Abnormality of the digestive system
+22.2%
+Abnormality of the ear
+22.2%
+Abnormality of the eye
+22.2%
+Abnormality of the musculoskeletal system
+22.2%
+Abnormality of the nervous system
+22.2%
+Abnormality of blood and blood-forming tissues
+11.1%
+Abnormality of limbs
+11.1%
+Abnormality of the cardiovascular system
+11.1%
+Abnormality of the immune system
+11.1%
+Abnormal cellular phenotype
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+138,https://3billion.io/gene/VAT1L/,VAT1L,"VAT1L
+Synonyms
+-
+External resources
+NCBI57687
+EnsemblENSG00000171724
+HGNCHGNC:29315
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+10,725
+Likely benign
+444
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VAT1L gene."
+139,https://3billion.io/gene/VDAC3/,VDAC3,"VDAC3
+Synonyms
+HD-VDAC3, VDAC-3
+External resources
+NCBI7419
+OMIM610029
+EnsemblENSG00000078668
+HGNCHGNC:12674
+Summary
+This gene encodes a voltage-dependent anion channel (VDAC), and belongs to the mitochondrial porin family. VDACs are small, integral membrane proteins that traverse the outer mitochondrial membrane and conduct ATP and other small metabolites. They are known to bind several kinases of intermediary metabolism, thought to be involved in translocation of adenine nucleotides, and are hypothesized to form part of the mitochondrial permeability transition pore, which results in the release of cytochrome c at the onset of apoptotic cell death. Alternatively transcript variants encoding different isoforms have been described for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+1
+Likely pathogenic
+0
+VUS
+1,351
+Likely benign
+1,061
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 1 patients carrying pathogenic or likely pathogenic variants on VDAC3 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the genitourinary system
+100%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the musculoskeletal system
+0%
+Abnormality of the nervous system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+140,https://3billion.io/gene/VDAC2/,VDAC2,"VDAC2
+Synonyms
+POR
+External resources
+NCBI7417
+OMIM193245
+EnsemblENSG00000165637
+HGNCHGNC:12672
+Summary
+This gene encodes a member of the voltage-dependent anion channel pore-forming family of proteins that are considered the main pathway for metabolite diffusion across the mitochondrial outer membrane. The encoded protein is also thought to be involved in the mitochondrial apoptotic pathway via regulation of BCL2-antagonist/killer 1 protein activity. Pseudogenes have been identified on chromosomes 1, 2, 12 and 21, and alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+23,953
+Likely benign
+2,201
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VDAC2 gene."
+141,https://3billion.io/gene/VDAC1/,VDAC1,"VDAC1
+Synonyms
+PORIN, VDAC-1
+External resources
+NCBI7416
+OMIM604492
+EnsemblENSG00000213585
+HGNCHGNC:12669
+Summary
+This gene encodes a voltage-dependent anion channel protein that is a major component of the outer mitochondrial membrane. The encoded protein facilitates the exchange of metabolites and ions across the outer mitochondrial membrane and may regulate mitochondrial functions. This protein also forms channels in the plasma membrane and may be involved in transmembrane electron transport. Alternate splicing results in multiple transcript variants. Multiple pseudogenes of this gene are found on chromosomes 1, 2 3, 6, 9, 12, X and Y.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+9,469
+Likely benign
+1,952
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 3 patients carrying pathogenic or likely pathogenic variants on VDAC1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the integument
+33.3%
+Abnormality of the musculoskeletal system
+33.3%
+Abnormality of the nervous system
+33.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+142,https://3billion.io/gene/VSIR/,VSIR,"VSIR
+Synonyms
+B7-H5, B7H5, C10orf54, DD1alpha, Dies1, GI24, PD-1H, PP2135, SISP1, VISTA
+External resources
+NCBI64115
+OMIM615608
+EnsemblENSG00000107738
+HGNCHGNC:30085
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+5,797
+Likely benign
+502
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VSIR gene."
+143,https://3billion.io/gene/VN1R2/,VN1R2,"VN1R2
+Synonyms
+V1RL2
+External resources
+NCBI317701
+EnsemblENSG00000196131
+HGNCHGNC:19872
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,036
+Likely benign
+1,620
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VN1R2 gene."
+144,https://3billion.io/gene/VN1R3/,VN1R3,"VN1R3
+Synonyms
+FKSG46, V1RL3, V1RL3p
+External resources
+NCBI317702
+HGNCHGNC:19867
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+6,581
+Likely benign
+0
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VN1R3 gene."
+145,https://3billion.io/gene/VN1R1/,VN1R1,"VN1R1
+Synonyms
+V1RL1, VNR19I1, ZVNH1, ZVNR1
+External resources
+NCBI57191
+OMIM605234
+EnsemblENSG00000178201
+HGNCHGNC:13548
+Summary
+Pheromones are chemical signals that elicit specific behavioral responses and physiologic alterations in recipients of the same species. The protein encoded by this gene is similar to pheromone receptors and is primarily localized to the olfactory mucosa. An alternate splice variant of this gene is thought to exist, but its full length nature has not been determined.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+157
+Likely benign
+287
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VN1R1 gene."
+146,https://3billion.io/gene/VN1R4/,VN1R4,"VN1R4
+Synonyms
+V1RL4
+External resources
+NCBI317703
+EnsemblENSG00000228567
+HGNCHGNC:19871
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,089
+Likely benign
+583
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VN1R4 gene."
+147,https://3billion.io/gene/VN1R5/,VN1R5,"VN1R5
+Synonyms
+V1RL5
+External resources
+NCBI317705
+EnsemblENSG00000197617
+HGNCHGNC:19870
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+936
+Likely benign
+0
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VN1R5 gene."
+148,https://3billion.io/gene/VGLL2/,VGLL2,"VGLL2
+Synonyms
+VGL2, VITO1
+External resources
+NCBI245806
+OMIM609979
+EnsemblENSG00000170162
+HGNCHGNC:20232
+Summary
+This gene encodes a protein with a transcriptional enhancer factor 1 (TEF-1) interaction domain. The encoded protein may act as a co-factor of TEF-1 regulated gene expression during skeletal muscle development. Alternatively spliced transcript variants encoding multiple isoforms have been observed.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+510
+Likely benign
+1,558
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VGLL2 gene."
+149,https://3billion.io/gene/VGLL3/,VGLL3,"VGLL3
+Synonyms
+VGL-3, VGL3
+External resources
+NCBI389136
+OMIM609980
+EnsemblENSG00000206538
+HGNCHGNC:24327
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,199
+Likely benign
+794
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VGLL3 gene."
+150,https://3billion.io/gene/VGLL1/,VGLL1,"VGLL1
+Synonyms
+TDU, VGL1
+External resources
+NCBI51442
+OMIM300583
+EnsemblENSG00000102243
+HGNCHGNC:20985
+Summary
+The protein encoded by this gene binds proteins of the TEA domain family of transcription factors (TEFs) through the Vg (vestigial) homology region found in its N-terminus. It may thus function as a specific coactivator for the mammalian TEFs.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+424
+Likely benign
+1,325
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VGLL1 gene."
+151,https://3billion.io/gene/VGLL4/,VGLL4,"VGLL4
+Synonyms
+VGL-4
+External resources
+NCBI9686
+OMIM618692
+EnsemblENSG00000144560
+HGNCHGNC:28966
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+11,358
+Likely benign
+617
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on VGLL4 gene."
+152,https://3billion.io/gene/VCAN/,VCAN,"VCAN
+Synonyms
+CSPG2, ERVR, GHAP, PG-M, WGN, WGN1
+External resources
+NCBI1462
+OMIM118661
+EnsemblENSG00000038427
+HGNCHGNC:2464
+Summary
+This gene is a member of the aggrecan/versican proteoglycan family. The protein encoded is a large chondroitin sulfate proteoglycan and is a major component of the extracellular matrix. This protein is involved in cell adhesion, proliferation, proliferation, migration and angiogenesis and plays a central role in tissue morphogenesis and maintenance. Mutations in this gene are the cause of Wagner syndrome type 1. Multiple transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+12
+Likely pathogenic
+0
+VUS
+1,504
+Likely benign
+3,030
+Benign
+9,897","Patient phenotypes
+Proportions of phenotypes among 9 patients carrying pathogenic or likely pathogenic variants on VCAN gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+55.6%
+Abnormality of the eye
+33.3%
+Abnormality of head or neck
+11.1%
+Abnormality of the ear
+11.1%
+Abnormality of the integument
+11.1%
+Abnormality of the musculoskeletal system
+11.1%
+Growth abnormality
+11.1%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"

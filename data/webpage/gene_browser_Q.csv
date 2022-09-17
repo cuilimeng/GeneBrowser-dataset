@@ -1,0 +1,569 @@
+﻿,url,title,description,variant counts,patient phenotypes
+0,https://3billion.io/gene/QPCT/,QPCT,"QPCT
+Synonyms
+GCT, QC, sQC
+External resources
+NCBI25797
+OMIM607065
+EnsemblENSG00000115828
+HGNCHGNC:9753
+Summary
+This gene encodes human pituitary glutaminyl cyclase, which is responsible for the presence of pyroglutamyl residues in many neuroendocrine peptides. The amino acid sequence of this enzyme is 86% identical to that of bovine glutaminyl cyclase.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,904
+Likely benign
+2,701
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QPCT gene."
+1,https://3billion.io/gene/QRFP/,QRFP,"QRFP
+Synonyms
+26RFa, P518
+External resources
+NCBI347148
+OMIM609795
+EnsemblENSG00000188710
+HGNCHGNC:29982
+Summary
+This gene encodes a preproprotein that is proteolytically processed to generate multiple protein products. The encoded products are members of the RFamide family of neuropeptides, characterized by their common protein C-terminus consisting of an arginine (R) and an amidated phenylalanine (F). These products include the neuropeptides 26RFa and the N-terminally extended form, 43RFa. Both of these neuropeptides bind to the pyroglutamylated RFamide peptide receptor (QRFPR) and may regulate blood pressure, reproduction and food intake in rodents.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+384
+Likely benign
+1,347
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QRFP gene."
+2,https://3billion.io/gene/QDPR/,QDPR,"QDPR
+Synonyms
+DHPR, HDHPR, PKU2, SDR33C1
+External resources
+NCBI5860
+OMIM612676
+EnsemblENSG00000151552
+HGNCHGNC:9752
+Summary
+This gene encodes the enzyme dihydropteridine reductase, which catalyzes the NADH-mediated reduction of quinonoid dihydrobiopterin. This enzyme is an essential component of the pterin-dependent aromatic amino acid hydroxylating systems. Mutations in this gene resulting in QDPR deficiency include aberrant splicing, amino acid substitutions, insertions, or premature terminations. Dihydropteridine reductase deficiency presents as atypical phenylketonuria due to insufficient production of biopterin, a cofactor for phenylalanine hydroxylase.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+1,152
+Likely benign
+2,173
+Benign
+234","Patient phenotypes
+Proportions of phenotypes among 3 patients carrying pathogenic or likely pathogenic variants on QDPR gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+100%
+Abnormality of limbs
+33.3%
+Abnormality of the cardiovascular system
+33.3%
+Abnormality of the digestive system
+33.3%
+Abnormality of the endocrine system
+33.3%
+Abnormality of the eye
+33.3%
+Abnormality of the genitourinary system
+33.3%
+Abnormality of the integument
+33.3%
+Abnormality of the musculoskeletal system
+33.3%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of head or neck
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the ear
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+3,https://3billion.io/gene/QSOX2/,QSOX2,"QSOX2
+Synonyms
+QSCN6L1, SOXN
+External resources
+NCBI169714
+OMIM612860
+EnsemblENSG00000165661
+HGNCHGNC:30249
+Summary
+QSOX2 is a member of the sulfhydryl oxidase/quiescin-6 (Q6) family (QSOX1; MIM 603120) that regulates the sensitization of neuroblastoma cells for IFN-gamma (IFNG; MIM 147570)-induced cell death (Wittke et al., 2003 [PubMed 14633699]).","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+7,995
+Likely benign
+2,404
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QSOX2 gene."
+4,https://3billion.io/gene/QSOX1/,QSOX1,"QSOX1
+Synonyms
+Q6, QSCN6
+External resources
+NCBI5768
+OMIM603120
+EnsemblENSG00000116260
+HGNCHGNC:9756
+Summary
+This gene encodes a protein that contains domains of thioredoxin and ERV1, members of two long-standing gene families. The gene expression is induced as fibroblasts begin to exit the proliferative cycle and enter quiescence, suggesting that this gene plays an important role in growth regulation. Two transcript variants encoding two different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+6,862
+Likely benign
+3,199
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QSOX1 gene."
+5,https://3billion.io/gene/QRICH2/,QRICH2,"QRICH2
+Synonyms
+SPGF35
+External resources
+NCBI84074
+OMIM618304
+EnsemblENSG00000129646
+HGNCHGNC:25326
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+71
+Likely pathogenic
+0
+VUS
+13,473
+Likely benign
+10,973
+Benign
+357","Patient phenotypes
+Proportions of phenotypes among 66 patients carrying pathogenic or likely pathogenic variants on QRICH2 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+40.9%
+Abnormality of the musculoskeletal system
+30.3%
+Abnormality of head or neck
+16.7%
+Abnormality of the cardiovascular system
+16.7%
+Abnormality of the eye
+16.7%
+Growth abnormality
+15.2%
+Abnormality of the ear
+12.1%
+Abnormality of the digestive system
+10.6%
+Abnormality of the genitourinary system
+10.6%
+Abnormality of limbs
+9.1%
+Abnormality of the endocrine system
+6.1%
+Abnormality of prenatal development or birth
+4.5%
+Abnormality of the integument
+4.5%
+Abnormality of the immune system
+3%
+Abnormality of the respiratory system
+3%
+Abnormality of the breast
+1.5%
+Constitutional symptom
+1.5%
+Neoplasm
+1.5%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%"
+6,https://3billion.io/gene/QSER1/,QSER1,"QSER1
+Synonyms
+-
+External resources
+NCBI79832
+OMIM619440
+EnsemblENSG00000060749
+HGNCHGNC:26154
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+7
+Likely pathogenic
+0
+VUS
+2,334
+Likely benign
+1,453
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 5 patients carrying pathogenic or likely pathogenic variants on QSER1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+80%
+Growth abnormality
+40%
+Abnormality of blood and blood-forming tissues
+20%
+Abnormality of head or neck
+20%
+Abnormality of the cardiovascular system
+20%
+Abnormality of the endocrine system
+20%
+Abnormality of the eye
+20%
+Abnormality of the genitourinary system
+20%
+Abnormality of the integument
+20%
+Abnormality of the musculoskeletal system
+20%
+Abnormal cellular phenotype
+0%
+Abnormality of limbs
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the ear
+0%
+Abnormality of the immune system
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Neoplasm
+0%"
+7,https://3billion.io/gene/QRSL1/,QRSL1,"QRSL1
+Synonyms
+COXPD40, GatA
+External resources
+NCBI55278
+OMIM617209
+EnsemblENSG00000130348
+HGNCHGNC:21020
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+5
+Likely pathogenic
+0
+VUS
+2,325
+Likely benign
+1,956
+Benign
+0","Patient phenotypes
+Proportions of phenotypes among 5 patients carrying pathogenic or likely pathogenic variants on QRSL1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of the nervous system
+60%
+Abnormality of the ear
+40%
+Abnormal cellular phenotype
+20%
+Abnormality of blood and blood-forming tissues
+20%
+Abnormality of head or neck
+20%
+Abnormality of limbs
+20%
+Abnormality of the immune system
+20%
+Abnormality of the integument
+20%
+Abnormality of the musculoskeletal system
+20%
+Abnormality of the respiratory system
+20%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the cardiovascular system
+0%
+Abnormality of the digestive system
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+8,https://3billion.io/gene/QRFPR/,QRFPR,"QRFPR
+Synonyms
+AQ27, GPR103, SP9155
+External resources
+NCBI84109
+OMIM606925
+EnsemblENSG00000186867
+HGNCHGNC:15565
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+5,932
+Likely benign
+2,958
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QRFPR gene."
+9,https://3billion.io/gene/QPCTL/,QPCTL,"QPCTL
+Synonyms
+gQC
+External resources
+NCBI54814
+EnsemblENSG00000011478
+HGNCHGNC:25952
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+2,944
+Likely benign
+2,294
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QPCTL gene."
+10,https://3billion.io/gene/QKI/,QKI,"QKI
+Synonyms
+Hqk, QK, QK1, QK3, hqkI
+External resources
+NCBI9444
+OMIM609590
+EnsemblENSG00000112531
+HGNCHGNC:21100
+Summary
+The protein encoded by this gene is an RNA-binding protein that regulates pre-mRNA splicing, export of mRNAs from the nucleus, protein translation, and mRNA stability. The encoded protein is involved in myelinization and oligodendrocyte differentiation and may play a role in schizophrenia. Multiple transcript variants encoding different isoforms have been found for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+5,576
+Likely benign
+2,003
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QKI gene."
+11,https://3billion.io/gene/QTRT2/,QTRT2,"QTRT2
+Synonyms
+QTRTD1
+External resources
+NCBI79691
+EnsemblENSG00000151576
+HGNCHGNC:25771
+Summary
+This gene encodes a subunit of tRNA-guanine transglycosylase. tRNA-guanine transglycosylase is a heterodimeric enzyme complex that plays a critical role in tRNA modification by synthesizing the 7-deazaguanosine queuosine, which is found in tRNAs that code for asparagine, aspartic acid, histidine, and tyrosine. The encoded protein may play a role in the queuosine 5'-monophosphate salvage pathway. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,564
+Likely benign
+1,950
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QTRT2 gene."
+12,https://3billion.io/gene/QTRT1/,QTRT1,"QTRT1
+Synonyms
+FP3235, TGT, TGUT
+External resources
+NCBI81890
+OMIM609615
+EnsemblENSG00000213339
+HGNCHGNC:23797
+Summary
+This gene encodes the catalytic subunit of tRNA-guanine transglycosylase. tRNA-guanine transglycosylase is a heterodimeric enzyme complex that plays a critical role in tRNA modification by synthesizing the 7-deazaguanosine queuosine, which is found in tRNAs that code for asparagine, aspartic acid, histidine and tyrosine. A pseudogene of this gene is located on the long arm of chromosome X.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+1,189
+Likely benign
+619
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QTRT1 gene."
+13,https://3billion.io/gene/QRICH1/,QRICH1,"QRICH1
+Synonyms
+AB-DIP, VERBRAS
+External resources
+NCBI54870
+OMIM617387
+EnsemblENSG00000198218
+HGNCHGNC:24713
+Summary
+-","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+3
+Likely pathogenic
+0
+VUS
+1,437
+Likely benign
+1,588
+Benign
+7,929","Patient phenotypes
+Proportions of phenotypes among 2 patients carrying pathogenic or likely pathogenic variants on QRICH1 gene are displayed below.
+Phenotype class
+Patients in 3billion (%)
+Abnormality of head or neck
+50%
+Abnormality of limbs
+50%
+Abnormality of the cardiovascular system
+50%
+Abnormality of the digestive system
+50%
+Abnormality of the ear
+50%
+Abnormality of the musculoskeletal system
+50%
+Abnormality of the nervous system
+50%
+Abnormal cellular phenotype
+0%
+Abnormality of blood and blood-forming tissues
+0%
+Abnormality of metabolism homeostasis
+0%
+Abnormality of prenatal development or birth
+0%
+Abnormality of the breast
+0%
+Abnormality of the endocrine system
+0%
+Abnormality of the eye
+0%
+Abnormality of the genitourinary system
+0%
+Abnormality of the immune system
+0%
+Abnormality of the integument
+0%
+Abnormality of the respiratory system
+0%
+Abnormality of the thoracic cavity
+0%
+Abnormality of the voice
+0%
+Constitutional symptom
+0%
+Growth abnormality
+0%
+Neoplasm
+0%"
+14,https://3billion.io/gene/QPRT/,QPRT,"QPRT
+Synonyms
+HEL-S-90n, QPRTase
+External resources
+NCBI23475
+OMIM606248
+EnsemblENSG00000103485
+HGNCHGNC:9755
+Summary
+This gene encodes a key enzyme in catabolism of quinolinate, an intermediate in the tryptophan-nicotinamide adenine dinucleotide pathway. Quinolinate acts as a most potent endogenous exitotoxin to neurons. Elevation of quinolinate levels in the brain has been linked to the pathogenesis of neurodegenerative disorders such as epilepsy, Alzheimer's disease, and Huntington's disease. Alternative splicing results in multiple transcript variants.","Variant counts
+The variants found in rare patients tested by 3billion are classified and counted according to ACMG guidelines. The variants with over 5% variant frequency in population genome databases ( gnomAD, dbSNP, etc) are excluded.
+Pathogenic
+0
+Likely pathogenic
+0
+VUS
+582
+Likely benign
+40
+Benign
+0","Patient phenotypes
+No patients carry pathogenic or likely pathogenic variants on QPRT gene."
